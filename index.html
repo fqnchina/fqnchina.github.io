@@ -1312,7 +1312,45 @@
 
 
     <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-      
+
+      <tr onmouseout="portrait_stop()" onmouseover="portrait_start()">
+        <td width="25%">
+          <div class="one">
+          <div class="two" id="portrait_image" style="opacity: 0;">
+          <img src="./QingnanFan_files/arxiv23-reflection.png" width="175" alt="" style="border-style: none" align="middle">
+          </div>
+          <img src="./QingnanFan_files/arxiv23-reflection.png" width="175" alt="" style="border-style: none" align="middle">
+          </div>
+          <script type="text/javascript">
+          function portrait_start() {
+          document.getElementById('portrait_image').style.opacity = "1";
+          }
+          function portrait_stop() {
+          document.getElementById('portrait_image').style.opacity = "0";
+          }
+          portrait_stop()
+          </script>
+        </td>
+        <td valign="top" width="75%">
+              <papertitle>Single image reflection removal via learning with multi-image constraints</papertitle>
+      <br>
+      <a href="https://yd-yin.github.io/">Yingda Yin*</a>, 
+      <strong>Qingnan Fan*</strong>, 
+      <a href="http://www.dongdongchen.bid/">Dongdong Chen</a>, 
+      <a href="http://yujiewang.info/">Yujie Wang</a>, 
+      <a href="https://angelicaiaviles.wordpress.com/">Angelica Aviles-Rivero</a>,
+      <a href="https://liruoteng.github.io/">Ruoteng Li</a>, 
+      <a href="http://www.damtp.cam.ac.uk/user/cbs31/Home.html">Carola-Bibiane Schönlieb</a>,
+      <a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>.
+      <br>
+      2023
+      <br>
+          <a href="https://arxiv.org/abs/1912.03623">Arxiv</a>
+          <p> Our algorithm works by learning a deep neural network to optimize the target with joint constraints enhanced among multiple input images during the training phase, but is able to eliminate reflections only from a single input for evaluation.</p>
+        </td>
+      </tr>
+
+
       <tr onmouseout="portrait_stop()" onmouseover="portrait_start()">
         <td width="25%">
           <div class="one">
@@ -1344,7 +1382,7 @@
       <br>
       2021
       <br>
-          <a href="https://arxiv.org/abs/2112.10143">Arxiv</a>/
+          <a href="https://arxiv.org/abs/2112.10143">Arxiv</a> /
           <a href="https://sites.google.com/view/roboticassembly">Project page</a>
           <p> We formulate the part assembly task as a concrete reinforcement learning problem and propose a pipeline for robots to learn to assemble a diverse set of chairs.</p>
         </td>
@@ -1380,7 +1418,7 @@
       <br>
       2020
       <br>
-          <a href="https://arxiv.org/abs/2010.05272">Arxiv</a>/
+          <a href="https://arxiv.org/abs/2010.05272">Arxiv</a> /
           <a href="https://github.com/Wuziyi616/IF-Defense">Codes</a>
           <p> We propose an IF-Defense framework to directly optimize the coordinates of input points with geometry-aware and distribution-aware constraints, to address the 3D adversarial attacks.</p>
         </td>
