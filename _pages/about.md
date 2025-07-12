@@ -272,6 +272,7 @@ Haisen Zhao, Yuan Wei,
 - *2021.10*, Visual Localization, Embodied AI Workshop, Valse
 - *2019.01*, Deep Learning in Computational Photography, USC ICT/UW Reality Lab/Berkeley/Stanford/Google/MSR
 - *2018.12*, Deep Learning for Single Image Artifact Removal, ACCV Tutorial
+- *2018.12*, Image Smoothing via Unsupervised Learning, GAMES Webinar
 - *2018.08*, Discovering Unsupervised Learning in Image Processing, CIA, Cambridge University
 
 # 💻 Internships/Visiting students
