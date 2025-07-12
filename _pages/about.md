@@ -97,8 +97,8 @@ Zejia Su,
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
 
-<a href="https://yanchaoyang.github.io/">Yanchao Yang*</a>, 
-Hanxiang Ren*, 
+<a href="https://yanchaoyang.github.io/">Yanchao Yang* </a>, 
+Hanxiang Ren*,
 <a href="https://hughw19.github.io/">He Wang</a>, 
 <a href="https://cs.stanford.edu/people/bshen88/">Bokui Shen</a>, 
 <strong>Qingnan Fan</strong>, 
