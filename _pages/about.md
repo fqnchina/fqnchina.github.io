@@ -256,17 +256,27 @@ Haisen Zhao, Yuan Wei,
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards       
+- *2022* Tencent Outstanding Contributor. 
+- *2020* CCF Doctorial Dissertation Award Nominee (CCF 优博提名)
+- *2018* Academic Star Nominee of Shandong University (10/20000)
+- *2015* Presidential Scholarship of Shandong University (35/20000) (Highest honor for students in SDU, only 35 elected among around 20000 candidates)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019 - 2021*, PostDoc, Stanford University
+- *2014 - 2019*, PhD, Shandong University.
+- *2010 - 2014*, Undergraduate, Shandong University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Invited Talks      
+- *2022.04*, Active 3D scene understanding and its applications, “三维视觉与智能图形”前沿论坛, 图图名师讲堂
+- *2021.10*, Visual Localization, Embodied AI Workshop, Valse
+- *2019.01*, Deep Learning in Computational Photography, USC ICT/UW Reality Lab/Berkeley/Stanford/Google/MSR
+- *2018.12*, Deep Learning for Single Image Artifact Removal, ACCV Tutorial
+- *2018.08*, Discovering Unsupervised Learning in Image Processing, CIA, Cambridge University
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships/Visiting students
+- *2018 - 2019*, Beijing Film Academy, China.
+- *2018*, University of Cambridge, UK.
+- *2016-2018*, Microsoft Research Asia, China.
+- *2015*, Tel Aviv University, Israel.
+- *2014*, The Hebrew University of Jerusalem, Israel.
