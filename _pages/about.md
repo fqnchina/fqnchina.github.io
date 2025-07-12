@@ -90,6 +90,24 @@ Zejia Su,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
+<a href="https://yanchaoyang.github.io/">Yanchao Yang*</a>, 
+Hanxiang Ren*, 
+<a href="https://hughw19.github.io/">He Wang</a>, 
+<a href="https://cs.stanford.edu/people/bshen88/">Bokui Shen</a>, 
+<strong>Qingnan Fan</strong>, 
+<a href="https://www.youyizheng.net/">Youyi Zheng</a>, 
+<a href="https://ckllab.stanford.edu/">C. Karen Liu</a>,
+<a href="http://geometry.stanford.edu/member/guibas/index.html" target="_blank">Leonidas Guibas</a>.
+  
+<a href="https://arxiv.org/abs/2107.14285" target="_blank">arXiv</a>
+/
+<a href="./QingnanFan_files/cvpr_2022_adela.bib">bibtex</a>
+- We describe a method to deal with performance drop in semantic segmentation caused by viewpoint changes within multi-camera systems, where temporally paired images are readily available, but the annotations may only be abundant for a few typical views.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
