@@ -31,7 +31,7 @@ My research focus lies in computer graphics, 3D vision, image processing, and hu
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](./QingnanFan_files/cvpr_2025.pdf)
 
@@ -54,7 +54,7 @@ Yuzheng Liu*,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2023</div><img src='./QingnanFan_files/siga_2023_activity_small.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Scene-aware Activity Program Generation with Language Guidance](./QingnanFan_files/cvpr_2025.pdf)
+[Scene-aware Activity Program Generation with Language Guidance](./QingnanFan_files/sigatog_2023.pdf)
 
 Zejia Su,
 <strong>Qingnan Fan</strong>, 
