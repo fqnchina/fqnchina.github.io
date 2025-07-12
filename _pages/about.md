@@ -97,7 +97,7 @@ Zejia Su,
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
   
-<a href="https://yanchaoyang.github.io/">Yanchao Yang**</a>, 
+<a href="https://yanchaoyang.github.io/">Yanchao Yang*</a>, 
 Hanxiang Ren*,
 <a href="https://hughw19.github.io/">He Wang</a>, 
 <a href="https://cs.stanford.edu/people/bshen88/">Bokui Shen</a>, 
@@ -140,27 +140,6 @@ Qiang Zhou,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2018 </div><img src='./QingnanFan_files/siga18_thumbnail_after.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Image Smoothing via Unsupervised Learning](./QingnanFan_files/siggraph_asia_2018.pdf)
-
-<strong>Qingnan Fan</strong>, 
-<a href="http://jlyang.org/">Jiaolong Yang</a>, 
-<a href="http://www.davidwipf.com/">David Wipf</a>,        
-<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
-<a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>.
-
-<a href="https://arxiv.org/abs/1811.02804">arXiv</a>
-/ 
-<a href="https://github.com/fqnchina/ImageSmoothing">codes</a>
-/ 
-<a href="https://www.dropbox.com/s/p3ql7etstto1g4e/siggraph_asia_2018_supp.pdf?dl=0">supp file</a>
-/
-<a href="./QingnanFan_files/siga_2018.bib">bibtex</a>
-- Treat deep learning as an optimization tool to minimize the proposed image smoothing objective function in an unsupervised manner. Multiple different smoothing effects can be easily learned by adaptively changing the proposed objective function.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (Oral)</div><img src='./QingnanFan_files/cvpr21_localization_thumbnail.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](./QingnanFan_files/cvpr_2021_localization.pdf)
@@ -185,6 +164,26 @@ Ji Shi,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2018 </div><img src='./QingnanFan_files/siga18_thumbnail_after.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Image Smoothing via Unsupervised Learning](./QingnanFan_files/siggraph_asia_2018.pdf)
+
+<strong>Qingnan Fan</strong>, 
+<a href="http://jlyang.org/">Jiaolong Yang</a>, 
+<a href="http://www.davidwipf.com/">David Wipf</a>,        
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
+<a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>.
+
+<a href="https://arxiv.org/abs/1811.02804">arXiv</a>
+/ 
+<a href="https://github.com/fqnchina/ImageSmoothing">codes</a>
+/ 
+<a href="https://www.dropbox.com/s/p3ql7etstto1g4e/siggraph_asia_2018_supp.pdf?dl=0">supp file</a>
+/
+<a href="./QingnanFan_files/siga_2018.bib">bibtex</a>
+- Treat deep learning as an optimization tool to minimize the proposed image smoothing objective function in an unsupervised manner. Multiple different smoothing effects can be easily learned by adaptively changing the proposed objective function.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
