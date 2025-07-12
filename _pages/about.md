@@ -96,8 +96,8 @@ Zejia Su,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
-
-<a href="https://yanchaoyang.github.io/">Yanchao Yang* </a>, 
+  
+<a href="https://yanchaoyang.github.io/">Yanchao Yang**</a>, 
 Hanxiang Ren*,
 <a href="https://hughw19.github.io/">He Wang</a>, 
 <a href="https://cs.stanford.edu/people/bshen88/">Bokui Shen</a>, 
@@ -139,6 +139,31 @@ Qiang Zhou,
 - For the first time, we propose a unified framework that can handle 9-DoF pose tracking for novel rigid object instances as well as per-part pose tracking for 3D articulated objects.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (Oral)</div><img src='./QingnanFan_files/cvpr21_localization_thumbnail.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](./QingnanFan_files/cvpr_2021_localization.pdf)
+
+<a href="https://scholar.google.com/citations?user=vtZMhssAAAAJ&hl=en/">Siyan Dong*</a>, 
+<strong>Qingnan Fan*</strong>, 
+<a href="https://hughw19.github.io/">He Wang</a>, 
+Ji Shi,
+<a href="https://ericyi.github.io/">Li Yi</a>, 
+<a href="https://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a>,
+<a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
+<a href="https://geometry.stanford.edu/member/guibas/index.html">Leonidas Guibas</a>.
+
+<a href="https://arxiv.org/abs/2012.04746">arXiv</a>
+/
+<a href="https://github.com/siyandong/NeuralRouting">codes</a>
+/
+<a href="https://www.youtube.com/watch?v=_1eInWKbuVA" target="_blank">video</a>
+/
+<a href="./QingnanFan_files/cvpr_2021_localization.bib">bibtex</a>
+- A novel outlier-aware neural tree to tackle the camera localization challenges in dynamic indoor environments. It achieves the best performance in the RIO-10 benchmark.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
