@@ -31,7 +31,7 @@ My research focus lies in computer graphics, 3D vision, image processing, and hu
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](./QingnanFan_files/cvpr_2025.pdf)
 
@@ -54,7 +54,7 @@ Yuzheng Liu*,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2023</div><img src='./QingnanFan_files/siga_2023_activity_small.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Scene-aware Activity Program Generation with Language Guidance](./QingnanFan_files/cvpr_2025.pdf)
+[Scene-aware Activity Program Generation with Language Guidance](./QingnanFan_files/sigatog_2023.pdf)
 
 Zejia Su,
 <strong>Qingnan Fan</strong>, 
@@ -206,8 +206,6 @@ Ji Shi,
 /
 <a href="./QingnanFan_files/cvpr_2018_poster.pdf">poster</a>
 / 
-<a href="https://www.youtube.com/watch?v=LBJ20kxr1a0&t=3026s">presentation (start from 36:44)</a>
-/
 <a href="./QingnanFan_files/cvpr_2018.bib">bibtex</a>
 - The first demonstration of a single basic deep architecture capable of achieving state-of-the-art results when applied to each of the major intrinsic benchmarks.
 </div>
@@ -238,7 +236,7 @@ Ji Shi,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Build-to-Last: Strength to Weight 3D Printed Objects](https://www.dropbox.com/s/f84dqmtht41k8vv/a97-lu.pdf?dl=0)
 
@@ -266,7 +264,7 @@ Haisen Zhao, Yuan Wei,
 
 # 📖 Educations
 - *2019 - 2021*, PostDoc, Stanford University
-- *2014 - 2019*, PhD, Shandong University.
+- *2014 - 2019*, Ph.D., Shandong University.
 - *2010 - 2014*, Undergraduate, Shandong University. 
 
 # 💬 Invited Talks      
@@ -274,6 +272,7 @@ Haisen Zhao, Yuan Wei,
 - *2021.10*, Visual Localization, Embodied AI Workshop, Valse
 - *2019.01*, Deep Learning in Computational Photography, USC ICT/UW Reality Lab/Berkeley/Stanford/Google/MSR
 - *2018.12*, Deep Learning for Single Image Artifact Removal, ACCV Tutorial
+- *2018.12*, Image Smoothing via Unsupervised Learning, GAMES Webinar
 - *2018.08*, Discovering Unsupervised Learning in Image Processing, CIA, Cambridge University
 
 # 💻 Internships/Visiting students
