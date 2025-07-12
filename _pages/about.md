@@ -140,7 +140,7 @@ Qiang Zhou,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (Oral)</div><img src='./QingnanFan_files/cvpr21_localization_thumbnail.png' width="175" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 (Oral)</div><img src='./QingnanFan_files/cvpr21_localization_thumbnail.png' width="400" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](./QingnanFan_files/cvpr_2021_localization.pdf)
 
@@ -164,7 +164,7 @@ Ji Shi,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2018 </div><img src='./QingnanFan_files/siga18_thumbnail_after.png' width="175" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2018 </div><img src='./QingnanFan_files/siga18_thumbnail_after.png' width="400" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Image Smoothing via Unsupervised Learning](./QingnanFan_files/siggraph_asia_2018.pdf)
 
@@ -184,7 +184,7 @@ Ji Shi,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018 (Oral) </div><img src='./QingnanFan_files/cvpr18_thumbnail.png' width="175" alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018 (Oral) </div><img src='./QingnanFan_files/cvpr18_thumbnail.png' width="400" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Revisiting Deep Intrinsic Image Decompositions](./QingnanFan_files/cvpr_2018.pdf)
 
