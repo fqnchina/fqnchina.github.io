@@ -236,6 +236,26 @@ Ji Shi,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Build-to-Last: Strength to Weight 3D Printed Objects](https://www.dropbox.com/s/f84dqmtht41k8vv/a97-lu.pdf?dl=0)
+
+<a href="http://vr.sdu.edu.cn/~lulin/">Lin Lu</a>,
+<a href="http://www.cs.bgu.ac.il/~asharf/">Andrei Sharf</a>,
+Haisen Zhao, Yuan Wei,
+<strong>Qingnan Fan</strong>, Xuelin Chen,
+<a href="http://www.animlife.com/">Yann Savoye</a>,
+<a href="http://www.cs.sdu.edu.cn/zh/60">Changhe Tu</a>,
+<a href="http://www.math.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>.
+
+<a href="https://www.youtube.com/watch?v=V5IrPSvcm_8&t=5s">video</a>
+/ 
+<a href="./QingnanFan_files/sig_2014.bib">bibtex</a>
+- Reduce the material cost and weight of a given object while providing a durable printed model that is resistant to impact and external forces.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
