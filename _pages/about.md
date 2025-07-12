@@ -25,10 +25,8 @@ I was a Postdoctoral Researcher in Stanford University supervised by <a href="ht
 
 I obtained my PhD degree in the  <a href="http://www.cs.sdu.edu.cn/">Computer Science and Technology School</a> of <a href="http://www.sdu.edu.cn/">Shandong University</a> at 2019. I was supervised by <a href="http://www.cs.sdu.edu.cn/~baoquan/"> Prof. Baoquan Chen</a>.
 
-My research focus lies in computer graphics, 3D vision, image processing, and human-computer interaction.  I have published more than 30 papers at the top international conferences.
-<a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-<strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
-
+My research focus lies in computer graphics, 3D vision, image processing, and human-computer interaction.  I have published ~40 papers at the top international conferences. <strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
+<!-- <a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> --> 
 
 If you are interested in the internship in our group for either publishing academic papers or working on engineering projects, feel free to drop me an email.
 
