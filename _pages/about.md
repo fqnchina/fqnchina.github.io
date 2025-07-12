@@ -51,6 +51,25 @@ Yuzheng Liu*,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2023</div><img src='./QingnanFan_files/siga_2023_activity_small.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Scene-aware Activity Program Generation with Language Guidance](./QingnanFan_files/cvpr_2025.pdf)
+Zejia Su,
+<strong>Qingnan Fan</strong>, 
+<a href="https://xuelin-chen.github.io/">Xuelin Chen</a>, 
+<a href="https://people.scs.carleton.ca/~olivervankaick/">Oliver van Kaick</a>, 
+<a href="https://vcc.tech/~huihuang">Hui Huang</a>, 
+<a href="https://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a>.
+  
+<a href="https://toddbear.github.io/LangGuidedProg/" target="_blank">project page</a>
+/
+<a href="./QingnanFan_files/tog_2023_supp.pdf" target="_blank">supp file</a>
+/
+<a href="./QingnanFan_files/tog_2023.bib">bibtex</a>
+- We address the problem of scene-aware activity program generation, which requires decomposing a given activity task into instructions that can be sequentially performed within a target scene to complete the activity.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
