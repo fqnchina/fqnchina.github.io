@@ -29,7 +29,7 @@ If you are interested in the internship in our group for either publishing acade
 
 My research focus lies in computer graphics, 3D vision, image processing, and human-computer interaction. My recent effort has been spent on pushing the limit of 3D vision and reinforcement learning technologies to implement an intelligent embodied agent in both forms of physical robots and digital humans. <strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,6 +41,7 @@ Yuzheng Liu*,
 <a href="https://yanchaoyang.github.io/">Yanchao Yang</a>, 
 <strong>Qingnan Fan</strong>, 
 <a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>.
+  
 <a href="https://arxiv.org/abs/2412.09401" target="_blank">arXiv</a>
 /
 <a href="https://www.youtube.com/watch?v=V1SHYkCTqHc" target="_blank">video</a>
