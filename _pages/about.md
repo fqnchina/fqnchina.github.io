@@ -34,6 +34,7 @@ My research focus lies in computer graphics, 3D vision, image processing, and hu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](./QingnanFan_files/cvpr_2025.pdf)
+
 Yuzheng Liu*,
 <a href="https://scholar.google.com/citations?user=vtZMhssAAAAJ&hl=en/">Siyan Dong*</a>, 
 <a href="https://ffrivera0.github.io/">Shuzhe Wang</a>, 
@@ -54,6 +55,7 @@ Yuzheng Liu*,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2023</div><img src='./QingnanFan_files/siga_2023_activity_small.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Scene-aware Activity Program Generation with Language Guidance](./QingnanFan_files/cvpr_2025.pdf)
+
 Zejia Su,
 <strong>Qingnan Fan</strong>, 
 <a href="https://xuelin-chen.github.io/">Xuelin Chen</a>, 
@@ -73,6 +75,7 @@ Zejia Su,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2023</div><img src='./QingnanFan_files/siga_2023_ease.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters](./QingnanFan_files/siga_2023.pdf)
+
 <a href="https://frank-zy-dou.github.io/">Zhiyang Dou</a>,
 <a href="https://xuelin-chen.github.io/">Xuelin Chen</a>, 
 <strong>Qingnan Fan</strong>, 
@@ -93,6 +96,7 @@ Zejia Su,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
+
 <a href="https://yanchaoyang.github.io/">Yanchao Yang*</a>, 
 Hanxiang Ren*, 
 <a href="https://hughw19.github.io/">He Wang</a>, 
@@ -106,6 +110,33 @@ Hanxiang Ren*,
 /
 <a href="./QingnanFan_files/cvpr_2022_adela.bib">bibtex</a>
 - We describe a method to deal with performance drop in semantic segmentation caused by viewpoint changes within multi-camera systems, where temporally paired images are readily available, but the annotations may only be abundant for a few typical views.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 (Oral)</div><img src='./QingnanFan_files/iccv_2021_captra3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds](./QingnanFan_files/iccv_2021_captra.pdf)
+
+Yijia Weng*, 
+<a href="https://hughw19.github.io/">He Wang*</a>, 
+Qiang Zhou,
+<a href="https://yzqin.github.io/">Yuzhe Qin</a>, 
+<a href="https://geometry.stanford.edu/person.php?id=duanyq19">Yueqi Duan</a>, 
+<strong>Qingnan Fan</strong>, 
+<a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>,
+<a href="http://ai.ucsd.edu/~haosu/">Hao Su</a>,
+<a href="https://geometry.stanford.edu/member/guibas/index.html">Leonidas Guibas</a>.
+
+<a href="https://arxiv.org/abs/2104.03437">arXiv</a>
+/
+<a href="https://yijiaweng.github.io/CAPTRA/" target="_blank">project page</a>
+/
+<a href="https://github.com/HalfSummer11/CAPTRA">codes</a>
+/
+<a href="https://www.youtube.com/watch?v=JFPcOHCH2O0">video</a>
+/
+<a href="./QingnanFan_files/iccv_2021_captra.bib">bibtex</a>
+- For the first time, we propose a unified framework that can handle 9-DoF pose tracking for novel rigid object instances as well as per-part pose tracking for 3D articulated objects.
 </div>
 </div>
 
