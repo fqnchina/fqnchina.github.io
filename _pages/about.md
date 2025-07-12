@@ -113,7 +113,7 @@ Hanxiang Ren*,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 (Oral)</div><img src='./QingnanFan_files/iccv_2021_captra3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 (Oral)</div><img src='./QingnanFan_files/iccv_2021_captra3.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds](./QingnanFan_files/iccv_2021_captra.pdf)
 
@@ -182,6 +182,33 @@ Ji Shi,
 /
 <a href="./QingnanFan_files/siga_2018.bib">bibtex</a>
 - Treat deep learning as an optimization tool to minimize the proposed image smoothing objective function in an unsupervised manner. Multiple different smoothing effects can be easily learned by adaptively changing the proposed objective function.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018 (Oral) </div><img src='./QingnanFan_files/cvpr18_thumbnail.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Revisiting Deep Intrinsic Image Decompositions](./QingnanFan_files/cvpr_2018.pdf)
+
+<strong>Qingnan Fan</strong>, 
+<a href="http://jlyang.org/">Jiaolong Yang</a>, 
+<a href="https://www.microsoft.com/en-us/research/people/ganghua/">Gang Hua</a>, 
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
+<a href="http://www.davidwipf.com/">David Wipf</a>.
+
+<a href="https://arxiv.org/abs/1701.02965">arXiv</a>
+/ 
+<a href="https://github.com/fqnchina/IntrinsicImage">codes</a>
+/
+<a href="./QingnanFan_files/cvpr_2018_v4_JL.pptx">slides</a>
+/  
+<a href="./QingnanFan_files/cvpr_2018_supp.pdf">supp file</a>
+/
+<a href="./QingnanFan_files/cvpr_2018_poster.pdf">poster</a>
+/ 
+<a href="https://www.youtube.com/watch?v=LBJ20kxr1a0&t=3026s">presentation (start from 36:44)</a>
+/
+<a href="./QingnanFan_files/cvpr_2018.bib">bibtex</a>
+- The first demonstration of a single basic deep architecture capable of achieving state-of-the-art results when applied to each of the major intrinsic benchmarks.
 </div>
 </div>
 
