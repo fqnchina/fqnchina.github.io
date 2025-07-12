@@ -33,9 +33,7 @@ My research focus lies in computer graphics, 3D vision, image processing, and hu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Oral)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](./QingnanFan_files/cvpr_2025.pdf)
-
 Yuzheng Liu*,
 <a href="https://scholar.google.com/citations?user=vtZMhssAAAAJ&hl=en/">Siyan Dong*</a>, 
 <a href="https://ffrivera0.github.io/">Shuzhe Wang</a>, 
@@ -43,7 +41,6 @@ Yuzheng Liu*,
 <a href="https://yanchaoyang.github.io/">Yanchao Yang</a>, 
 <strong>Qingnan Fan</strong>, 
 <a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>.
-
 <a href="https://arxiv.org/abs/2412.09401" target="_blank">arXiv</a>
 /
 <a href="https://www.youtube.com/watch?v=V1SHYkCTqHc" target="_blank">video</a>
@@ -53,7 +50,6 @@ Yuzheng Liu*,
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
