@@ -29,6 +29,9 @@ If you are interested in the internship in our group for either publishing acade
 
 My research focus lies in computer graphics, 3D vision, image processing, and human-computer interaction. My recent effort has been spent on pushing the limit of 3D vision and reinforcement learning technologies to implement an intelligent embodied agent in both forms of physical robots and digital humans. <strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
 
+# 🔥 Tech Transfer
+VIVO X200 series: <a href="https://www.vivo.com.cn/brand/news/detail?id=1273&type=0">Telephoto Image Enhancement​</a>
+
 # 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
