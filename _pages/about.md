@@ -93,7 +93,7 @@ Zejia Su,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
   
