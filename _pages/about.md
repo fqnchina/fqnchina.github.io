@@ -206,8 +206,6 @@ Ji Shi,
 /
 <a href="./QingnanFan_files/cvpr_2018_poster.pdf">poster</a>
 / 
-<a href="https://www.youtube.com/watch?v=LBJ20kxr1a0&t=3026s">presentation (start from 36:44)</a>
-/
 <a href="./QingnanFan_files/cvpr_2018.bib">bibtex</a>
 - The first demonstration of a single basic deep architecture capable of achieving state-of-the-art results when applied to each of the major intrinsic benchmarks.
 </div>
