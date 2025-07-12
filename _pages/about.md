@@ -236,7 +236,7 @@ Ji Shi,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Build-to-Last: Strength to Weight 3D Printed Objects](https://www.dropbox.com/s/f84dqmtht41k8vv/a97-lu.pdf?dl=0)
 
