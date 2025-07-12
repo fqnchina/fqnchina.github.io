@@ -264,7 +264,7 @@ Haisen Zhao, Yuan Wei,
 
 # 📖 Educations
 - *2019 - 2021*, PostDoc, Stanford University
-- *2014 - 2019*, PhD, Shandong University.
+- *2014 - 2019*, Ph.D., Shandong University.
 - *2010 - 2014*, Undergraduate, Shandong University. 
 
 # 💬 Invited Talks      
