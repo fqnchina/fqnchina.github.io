@@ -21,11 +21,13 @@ I am a Lead Researcher and team manager in the Imaging Algorithm Center of VIVO.
 
 I was a Senior Researcher in the Visual Computing Center of Tencent AI Lab between 2021 to 2023.
 
-I was a Postdoctoral Researcher in Stanford University supervised by Prof. Leonidas Guibas between 2019 to 2021.
+I was a Postdoctoral Researcher in Stanford University supervised by <a href="https://geometry.stanford.edu/member/guibas/"> Prof. Leonidas Guibas</a> between 2019 to 2021.
 
-I obtained my PhD degree in the Computer Science and Technology School of Shandong University at 2019. I was supervised by Prof. Baoquan Chen.
+I obtained my PhD degree in the  <a href="http://www.cs.sdu.edu.cn/">Computer Science and Technology School</a> of <a href="http://www.sdu.edu.cn/">Shandong University</a> at 2019. I was supervised by <a href="http://www.cs.sdu.edu.cn/~baoquan/"> Prof. Baoquan Chen</a>.
 
 If you are interested in the internship in our group for either publishing academic papers or working on engineering projects, feel free to drop me an email.
+
+My research focus lies in computer graphics, 3D vision, image processing, and human-computer interaction. My recent effort has been spent on pushing the limit of 3D vision and reinforcement learning technologies to implement an intelligent embodied agent in both forms of physical robots and digital humans. <strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
 
 # 📝 Publications 
 
@@ -47,8 +49,7 @@ Yuzheng Liu*,
 <a href="https://www.youtube.com/watch?v=V1SHYkCTqHc" target="_blank">video</a>
 /
 <a href="https://github.com/PKU-VCL-3DV/SLAM3R/" target="_blank">codes</a>
-[**arXiv**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://arxiv.org/abs/2412.09401)) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- SLAM3R is a real-time dense scene reconstruction system that regresses 3D points from video frames using feed-forward neural networks, without explicitly estimating camera parameters.
 </div>
 </div>
 
