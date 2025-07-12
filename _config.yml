@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qingnan Fan"
-description              : "Focusing on computational photography and embodied ai"
+description              : ""
 repository               : "fqnchina/fqnchina.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/fqnchina # e.g., "github username"
+  github           : fqnchina # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/qingnan-fan-02140aa7/ # e.g., "linkedin username"
+  linkedin         : qingnan-fan-02140aa7 # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://x.com/FanQingnan
+  twitter          : FanQingnan
   vine             :
   weibo            :
   xing             :
