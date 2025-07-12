@@ -170,8 +170,7 @@ Ji Shi,
 
 <strong>Qingnan Fan</strong>, 
 <a href="http://jlyang.org/">Jiaolong Yang</a>, 
-<a href="http://www.davidwipf.com/">David Wipf</a>,        
-<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
+<a href="http://www.davidwipf.com/">David Wipf</a>, <a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
 <a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>.
 
 <a href="https://arxiv.org/abs/1811.02804">arXiv</a>
