@@ -212,6 +212,31 @@ Ji Shi,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2015 </div><img src='./QingnanFan_files/siga_2015.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[JumpCut: Non-Successive Mask Transfer and Interpolation for Video Cutout](https://www.dropbox.com/s/q2xvrag0g5l8wii/%5B2015%5D%5Bsiggraph_asia%5DJumpCut%20Non-Successive%20Mask%20Transfer%20and%20Interpolation%20for%20Video%20Cutout.pdf?dl=0)
+
+<strong>Qingnan Fan</strong>,
+<a href="http://vr.sdu.edu.cn/~zf/">Fan Zhong</a>,
+<a href="http://www.cs.huji.ac.il/~danix/">Dani Lischinski</a>,
+<a href="http://www.math.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>.
+
+<a href="https://github.com/sduirc/JumpCut">codes</a>
+/ 
+<a href="https://www.dropbox.com/scl/fi/jr84cmwryf50vnb61wb6e/siga_2015.pptx?dl=0&rlkey=9jn17dt75d0g2bi23wlax5hb6">slides</a>
+/ 
+<a href="https://www.youtube.com/watch?v=drqnwDg0JFM&t=77s">video</a>
+/ 
+<a href="https://www.dropbox.com/s/4b76crsifryn6rq/siga_2015_supp.rar?dl=0">supp file</a>
+/ 
+<a href="https://www.dropbox.com/s/v0v3pkrhz1vizyt/VideoSeg_dataset.rar?dl=0">dataset</a>
+/ 
+<a href="./QingnanFan_files/siga_2015.bib">bibtex</a>
+- An interactive real-time video segmentation algorithm. Significantly improve the video cutout accuracy and efficiency.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
