@@ -70,6 +70,26 @@ Zejia Su,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2023</div><img src='./QingnanFan_files/siga_2023_ease.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters](./QingnanFan_files/siga_2023.pdf)
+<a href="https://frank-zy-dou.github.io/">Zhiyang Dou</a>,
+<a href="https://xuelin-chen.github.io/">Xuelin Chen</a>, 
+<strong>Qingnan Fan</strong>, 
+<a href="https://homepages.inf.ed.ac.uk/tkomura/">Taku Komura</a>, 
+<a href="https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html">Wenping Wang</a>.
+  
+<a href="http://arxiv.org/abs/2309.11351" target="_blank">arXiv</a>
+/
+<a href="https://frank-zy-dou.github.io/projects/CASE/index.html" target="_blank">project page</a>
+/
+<a href="https://youtu.be/Cgq6JbQ1VW4" target="_blank">video</a>
+/
+<a href="./QingnanFan_files/siga_2023.bib">bibtex</a>
+- We present C·ASE, an efficient and effective framework that learns conditional Adversarial Skill Embeddings for Elite physics-based characters.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
