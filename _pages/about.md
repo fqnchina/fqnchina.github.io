@@ -34,6 +34,7 @@ My research focus lies in computer graphics, 3D vision, image processing, and hu
 VIVO X200 series: <a href="https://www.vivo.com.cn/brand/news/detail?id=1273&type=0">Telephoto Image Enhancement​</a>
 
 # 📝 Selected Publications 
+**Equal contribution**$^\star$
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
