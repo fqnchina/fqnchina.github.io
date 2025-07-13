@@ -31,7 +31,7 @@ My research focus lies in computational photography, computer graphics, 3D visio
 👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at VIVO.** If you are interested in the research internship on computational photography, 3DV and Embodied AI, feel free to drop me an email.</span>
 
 # 🔥 Tech Transfer
-VIVO X200 series: <a href="https://www.vivo.com.cn/brand/news/detail?id=1273&type=0">Telephoto Image Enhancement​</a>
+VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto Image Quality Enhancement​</a>
 
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
@@ -278,7 +278,7 @@ Haisen Zhao, Yuan Wei,
 - *2018.12*, Image Smoothing via Unsupervised Learning, GAMES Webinar
 - *2018.08*, Discovering Unsupervised Learning in Image Processing, CIA, Cambridge University
 
-# 💻 Internships/Visiting students
+# 💻 Internships and Visiting students
 - *2018.04 - 2019.08*, Beijing Film Academy, China.
 - *2018.08 - 2018.10*, University of Cambridge, UK.
 - *2016.09 - 2018.03*, Microsoft Research Asia, China.
