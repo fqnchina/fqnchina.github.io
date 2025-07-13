@@ -120,7 +120,7 @@ Hanxiang Ren*,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 (Oral)</div><img src='./QingnanFan_files/iccv_2021_captra3.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 (Oral)</div><img src='./QingnanFan_files/iccv_2021_captra3.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds](./QingnanFan_files/iccv_2021_captra.pdf)
 
