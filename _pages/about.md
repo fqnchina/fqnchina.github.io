@@ -28,7 +28,7 @@ I obtained my PhD degree in the  <a href="http://www.cs.sdu.edu.cn/">Computer Sc
 My research focus lies in computer graphics, 3D vision, image processing, and human-computer interaction.  I have published about 40 papers at the top international conferences. <strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
 <!-- <a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> --> 
 
-If you are interested in the internship in our group for either publishing academic papers or working on engineering projects, feel free to drop me an email.
+👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at VIVO.** If you are interested in the research internship in our group on computational photography, 3DV and embodied ai, feel free to drop me an email.</span>
 
 # 🔥 Tech Transfer
 VIVO X200 series: <a href="https://www.vivo.com.cn/brand/news/detail?id=1273&type=0">Telephoto Image Enhancement​</a>
