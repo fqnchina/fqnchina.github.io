@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qingnan Fan"
-description              : "Lead researcher in the Imaging Algorithm Center of VIVO"
+description              : "Focusing on computational photography and Embodied AI"
 repository               : "fqnchina/fqnchina.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingnan Fan"
   avatar           : "images/qingnan_circle_v3.jpg"
-  bio              : "Focusing on computational photography and Embodied AI"
+  bio              : "Lead researcher in the Imaging Algorithm Center of VIVO"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
