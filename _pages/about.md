@@ -205,9 +205,7 @@ Ji Shi,
 <a href="https://github.com/fqnchina/IntrinsicImage">codes</a>
 /
 <a href="./QingnanFan_files/cvpr_2018_v4_JL.pptx">slides</a>
-/  
-<a href="./QingnanFan_files/cvpr_2018_supp.pdf">supp file</a>
-/
+/ <a href="./QingnanFan_files/cvpr_2018_supp.pdf">supp file</a> /
 <a href="./QingnanFan_files/cvpr_2018_poster.pdf">poster</a>
 / 
 <a href="./QingnanFan_files/cvpr_2018.bib">bibtex</a>
