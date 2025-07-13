@@ -266,9 +266,9 @@ Haisen Zhao, Yuan Wei,
 - *2015* Presidential Scholarship of Shandong University (35/20000) (Highest honor for students in SDU, only 35 elected among around 20000 candidates)
 
 # 📖 Educations
-- *2019 - 2021*, PostDoc, Stanford University
-- *2014 - 2019*, Ph.D., Shandong University.
-- *2010 - 2014*, Undergraduate, Shandong University. 
+- *2019.09 - 2021.03*, PostDoc, Stanford University
+- *2014.09 - 2019.06*, Ph.D., Shandong University.
+- *2010.09 - 2014.06*, Undergraduate, Shandong University. 
 
 # 💬 Invited Talks      
 - *2022.04*, Active 3D scene understanding and its applications, “三维视觉与智能图形”前沿论坛, 图图名师讲堂
@@ -279,8 +279,8 @@ Haisen Zhao, Yuan Wei,
 - *2018.08*, Discovering Unsupervised Learning in Image Processing, CIA, Cambridge University
 
 # 💻 Internships/Visiting students
-- *2018 - 2019*, Beijing Film Academy, China.
-- *2018*, University of Cambridge, UK.
-- *2016-2018*, Microsoft Research Asia, China.
-- *2015*, Tel Aviv University, Israel.
-- *2014*, The Hebrew University of Jerusalem, Israel.
+- *2018.04 - 2019.08*, Beijing Film Academy, China.
+- *2018.08 - 2018.10*, University of Cambridge, UK.
+- *2016.09 - 2018.03*, Microsoft Research Asia, China.
+- *2015.04 - 2015.05*, Tel Aviv University, Israel.
+- *2014.10 - 2014.11*, The Hebrew University of Jerusalem, Israel.
