@@ -291,10 +291,10 @@ Haisen Zhao, Yuan Wei,
 </div>
 
 # 🎖 Honors and Awards       
-- *2022* Tencent Outstanding Contributor. 
-- *2020* CCF Doctorial Dissertation Award Nominee (CCF 优博提名)
-- *2018* Academic Star Nominee of Shandong University (10/20000)
-- *2015* Presidential Scholarship of Shandong University (35/20000) (Highest honor for students in SDU, only 35 elected among around 20000 candidates)
+- *2022*, Tencent Outstanding Contributor. 
+- *2020*, CCF Doctorial Dissertation Award Nominee (CCF 优博提名)
+- *2018*, Academic Star Nominee of Shandong University (10/20000)
+- *2015*, Presidential Scholarship of Shandong University (35/20000) (Highest honor for students in SDU, only 35 elected among around 20000 candidates)
 
 # 📖 Educations
 - *2019.09 - 2021.03*, PostDoc, Stanford University
