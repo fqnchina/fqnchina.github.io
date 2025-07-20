@@ -100,13 +100,42 @@ Zejia Su,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/vat_mart.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects](./QingnanFan_files/iclr_2022.pdf)
+  
+<a href="https://warshallrho.github.io/" target="_blank">Ruihai Wu*</a>,
+<a href="https://www.researchgate.net/profile/Yan-Zhao-182" target="_blank">Yan Zhao*</a>,
+<a href="https://cs.stanford.edu/~kaichun/">Kaichun Mo*</a>, 
+<a href="https://guozz.cn/" target='_blank'>Zizheng Guo</a>,
+<a href="https://github.com/galaxy-qazzz" target='_blank'>Yian Wang</a>,
+<a href="https://tianhaowuhz.github.io/" target="_blank">Tianhao Wu</a>,
+<strong>Qingnan Fan</strong>, 
+<a href="https://xuelin-chen.github.io/" target='_blank'>Xuelin Chen</a>,
+<a href="http://geometry.stanford.edu/member/guibas/index.html" target="_blank">Leonidas Guibas</a>,
+<a href="https://zsdonghao.github.io/" target='_blank'>Hao Dong</a>.
+  
+<a href="https://arxiv.org/abs/2106.14440" target="_blank">arXiv</a>
+/
+<a href="https://hyperplane-lab.github.io/vat-mart" target="_blank">project page</a>
+/
+<a href="https://github.com/warshallrho/VAT-Mart" target="_blank">codes</a>
+/
+<a href="https://www.youtube.com/watch?v=HjhsLKf1eQY" target="_blank">video</a>
+/
+<a href="./QingnanFan_files/iclr-2022.bib">bibtex</a>
+- WAIC 2025, Top40 paper
+- We design an interaction-for-perception framework, VAT-MART, to learn actionable visual representations for more effective manipulation of 3D articulated objects.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
   
 <a href="https://yanchaoyang.github.io/">Yanchao Yang* </a>, 
 Hanxiang Ren*,
-<a href="https://hughw19.github.io/">He Wang</a>, 
+<a href="https://hughw19.github.io/">He Wang</a>,  
 <a href="https://cs.stanford.edu/people/bshen88/">Bokui Shen</a>, 
 <strong>Qingnan Fan</strong>, 
 <a href="https://www.youyizheng.net/">Youyi Zheng</a>, 
