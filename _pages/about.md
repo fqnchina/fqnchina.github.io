@@ -100,7 +100,7 @@ Zejia Su,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/vat_mart.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='./QingnanFan_files/vat_mart.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects](./QingnanFan_files/iclr_2022.pdf)
   
