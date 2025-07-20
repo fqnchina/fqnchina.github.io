@@ -53,6 +53,8 @@ Yuzheng Liu*,
 <a href="https://www.youtube.com/watch?v=V1SHYkCTqHc" target="_blank">video</a>
 /
 <a href="https://github.com/PKU-VCL-3DV/SLAM3R/" target="_blank">codes</a>
+
+- China3DV 2025, Top1 paper.
 - SLAM3R is a real-time dense scene reconstruction system that regresses 3D points from video frames using feed-forward neural networks, without explicitly estimating camera parameters.
 </div>
 </div>
