@@ -54,7 +54,7 @@ Yuzheng Liu*,
 /
 <a href="https://github.com/PKU-VCL-3DV/SLAM3R/" target="_blank">codes</a>
 
-- China3DV 2025, Top1 paper.
+- **Award**: China3DV 2025, Top1 paper.
 - SLAM3R is a real-time dense scene reconstruction system that regresses 3D points from video frames using feed-forward neural networks, without explicitly estimating camera parameters.
 </div>
 </div>
@@ -124,7 +124,7 @@ Zejia Su,
 <a href="https://www.youtube.com/watch?v=HjhsLKf1eQY" target="_blank">video</a>
 /
 <a href="./QingnanFan_files/iclr-2022.bib">bibtex</a>
-- WAIC 2025, Top40 paper
+- **Award**: WAIC 2025, Top40 paper
 - We design an interaction-for-perception framework, VAT-MART, to learn actionable visual representations for more effective manipulation of 3D articulated objects.
 </div>
 </div>
