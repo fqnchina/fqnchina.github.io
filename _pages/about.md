@@ -124,7 +124,7 @@ Zejia Su,
 <a href="https://www.youtube.com/watch?v=HjhsLKf1eQY" target="_blank">video</a>
 /
 <a href="./QingnanFan_files/iclr-2022.bib">bibtex</a>
-- **Award**: WAIC 2025, Top40 paper
+- **Award**: WAIC 2025, Young Outstanding Paper Award
 - We design an interaction-for-perception framework, VAT-MART, to learn actionable visual representations for more effective manipulation of 3D articulated objects.
 </div>
 </div>
