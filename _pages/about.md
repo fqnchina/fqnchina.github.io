@@ -31,6 +31,7 @@ My research focus lies in computational photography, computer graphics, 3D visio
 👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at VIVO.** If you are interested in the research internship on computational photography, 3DV and Embodied AI, feel free to drop me an email.</span>
 
 # 🔥 Tech Transfer
+
 VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto Image Quality Enhancement​</a>
 
 VIVO X300 series: telephoto text image enhancement via diffusion models
