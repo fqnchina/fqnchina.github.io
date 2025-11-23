@@ -34,7 +34,7 @@ My research focus lies in computational photography, computer graphics, 3D visio
 
 VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto Image Quality Enhancement​</a>
 
-VIVO X300 series: telephoto text image enhancement via diffusion models
+VIVO X300 series: Telephoto text image enhancement via diffusion models
 
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
