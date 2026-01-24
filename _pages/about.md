@@ -34,7 +34,7 @@ My research focus lies in computational photography, computer graphics, 3D visio
 
 VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">High-fidelity generative diffusion models for telephoto image enhancement​</a>
 
-VIVO X300 series: Text image enhancement (Chinese/English) with generative diffusion prior
+VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Text image enhancement (Chinese/English) with generative diffusion prior​</a>
 
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
