@@ -82,7 +82,7 @@ Qiming Hu, Linlong Fan, Yiyan Luo, Yuhang Yu, Xiaojie Guo, <strong>Qingnan Fan</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025 (Oral) </div><img src='./QingnanFan_files/nips_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025 (Oral) </div><img src='./QingnanFan_files/mm_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior](./QingnanFan_files/mm_2025.pdf)
 
