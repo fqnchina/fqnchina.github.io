@@ -25,7 +25,7 @@ I was a Postdoctoral Researcher in Stanford University supervised by <a href="ht
 
 I obtained my PhD degree in the  <a href="http://www.cs.sdu.edu.cn/">Computer Science and Technology School</a> of <a href="http://www.sdu.edu.cn/">Shandong University</a> at 2019. I was supervised by <a href="http://www.cs.sdu.edu.cn/~baoquan/"> Prof. Baoquan Chen</a>.
 
-My research focus lies in computational photography, computer graphics, 3D vision, Embodied AI.  I have published about 40 papers at the top international conferences. <strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
+My research focus lies in computational photography, 3D vision, Embodied AI.  I have published over 40 papers at the top international conferences. <strong>For the complete publication list, please refer to my <a href="https://scholar.google.co.uk/citations?user=2cY2zwUAAAAJ&hl=en">google scholar page</a>.
 <!-- <a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> --> 
 
 👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at VIVO.** If you are interested in the research internship on computational photography, 3DV and Embodied AI, feel free to drop me an email.</span>
@@ -294,15 +294,15 @@ Haisen Zhao, Yuan Wei,
 </div>
 
 # 🎖 Honors and Awards       
-- *2022*, Tencent Outstanding Contributor. 
+- *2022*, Tencent Outstanding Contributor
 - *2020*, CCF Doctorial Dissertation Award Nominee (CCF 优博提名)
 - *2018*, Academic Star Nominee of Shandong University (10/20000)
 - *2015*, Presidential Scholarship of Shandong University (35/20000) (Highest honor for students in SDU, only 35 elected among around 20000 candidates)
 
 # 📖 Educations
 - *2019.09 - 2021.03*, PostDoc, Stanford University
-- *2014.09 - 2019.06*, Ph.D., Shandong University.
-- *2010.09 - 2014.06*, Undergraduate, Shandong University. 
+- *2014.09 - 2019.06*, Ph.D., Shandong University
+- *2010.09 - 2014.06*, Undergraduate, Shandong University
 
 # 💬 Invited Talks      
 - *2022.04*, Active 3D scene understanding and its applications, “三维视觉与智能图形”前沿论坛, 图图名师讲堂
