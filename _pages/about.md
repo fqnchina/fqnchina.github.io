@@ -40,7 +40,7 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
 
-## Applied research for deployed projects
+## 🧑‍🎨 Applied research for deployed projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 </div><img src='./QingnanFan_files/iccv_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,12 +78,25 @@ Qiming Hu, Linlong Fan, Yiyan Luo, Yuhang Yu, Xiaojie Guo, <strong>Qingnan Fan</
   
 <a href="https://arxiv.org/abs/2506.04641" target="_blank">arXiv</a>
 
-- A novel diffusion-based SR framework, namely TADiSR, which integrates text-aware attention and joint segmentation decoders to recover not only natural details but also the structural fidelity of text regions in degraded real-world images
+- A novel diffusion-based SR framework, namely TADiSR, which integrates text-aware attention and joint segmentation decoders to recover not only natural details but also the structural fidelity of text regions in degraded real-world images.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025 (Oral) </div><img src='./QingnanFan_files/nips_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior](./QingnanFan_files/mm_2025.pdf)
 
-## Oral/Awarded research
+Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, Lin Wang.
+
+<a href="https://arxiv.org/abs/2410.09864" target="_blank">arXiv</a>
+/
+<a href="https://github.com/EthanLiang99/AuthFace" target="_blank">codes</a>
+
+- A novel framework, namely AuthFace that achieves highly authentic face restoration results by exploring a face-oriented generative diffusion prior.
+</div>
+</div>
+
+## 📚 Oral/Awarded research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
