@@ -70,7 +70,7 @@ Linwei Dong, <strong>Qingnan Fan</strong>, Yihong Guo, Zhonghao Wang, Qi Zhang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 </div><img src='./QingnanFan_files/nips_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 </div><img src='./QingnanFan_files/nips_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Text-Aware Real-World Image Super-Resolution via Diffusion Model with Joint Segmentation Decoders](./QingnanFan_files/nips_2025.pdf)
 
@@ -83,7 +83,7 @@ Qiming Hu, Linlong Fan, Yiyan Luo, Yuhang Yu, Xiaojie Guo, <strong>Qingnan Fan</
 </div>
 
 
-## Oral presentations
+## Oral/Awarded research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
