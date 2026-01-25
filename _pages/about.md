@@ -40,6 +40,51 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
 
+## Applied research for deployed projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 </div><img src='./QingnanFan_files/iccv_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[BokehDiff: Neural Lens Blur with One-Step Diffusion](./QingnanFan_files/iccv_2025.pdf)
+
+Chengxuan Zhu, <strong>Qingnan Fan</strong>, Qi Zhang, Jinwei Chen, Huaqi Zhang, Chao Xu, Boxin Shi.
+  
+<a href="https://arxiv.org/abs/2507.18060" target="_blank">arXiv</a>
+/
+<a href="https://github.com/FreeButUselessSoul/bokehdiff" target="_blank">codes</a>
+
+- A novel lens blur rendering method that achieves physically accurate and visually appealing outcomes, with the help of generative diffusion prior.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 </div><img src='./QingnanFan_files/cvpr_2025_tsd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution](./QingnanFan_files/cvpr_2025_tsd.pdf)
+
+Linwei Dong, <strong>Qingnan Fan</strong>, Yihong Guo, Zhonghao Wang, Qi Zhang, Jinwei Chen, Yawei Luo, Changqing Zou.
+  
+<a href="https://arxiv.org/abs/2411.18263" target="_blank">arXiv</a>
+/
+<a href="https://github.com/Microtreei/TSD-SR" target="_blank">codes</a>
+
+- TSD-SR has superior restoration results (most of the metrics perform the best) and the fastest inference speed (e.g. 40 times faster than SeeSR) compared to the past Real-ISR approaches based on pre-trained diffusion priors.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 </div><img src='./QingnanFan_files/nips_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Text-Aware Real-World Image Super-Resolution via Diffusion Model with Joint Segmentation Decoders](./QingnanFan_files/nips_2025.pdf)
+
+Qiming Hu, Linlong Fan, Yiyan Luo, Yuhang Yu, Xiaojie Guo, <strong>Qingnan Fan</strong>.
+  
+<a href="https://arxiv.org/abs/2506.04641" target="_blank">arXiv</a>
+
+- A novel diffusion-based SR framework, namely TADiSR, which integrates text-aware attention and joint segmentation decoders to recover not only natural details but also the structural fidelity of text regions in degraded real-world images
+</div>
+</div>
+
+
+## Oral presentations
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](./QingnanFan_files/cvpr_2025.pdf)
