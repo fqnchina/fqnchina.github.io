@@ -46,7 +46,7 @@ LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guide
 
 Clara Xue, Zizheng Yan, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
 
-- A reference-guided image restoration framework tailored for the reselected key photo in Live Photos.
+- The first reference-guided image restoration framework tailored for the reselected key photo in Live Photos.
 </div>
 </div>
 
@@ -60,7 +60,7 @@ Chengxuan Zhu, <strong>Qingnan Fan</strong>, Qi Zhang, Jinwei Chen, Huaqi Zhang,
 /
 <a href="https://github.com/FreeButUselessSoul/bokehdiff" target="_blank">codes</a>
 
-- A novel lens blur rendering method that achieves physically accurate and visually appealing outcomes, with the help of generative diffusion prior.
+- The first novel lens blur rendering method that achieves physically accurate and visually appealing outcomes, with the help of generative diffusion prior.
 </div>
 </div>
 
@@ -74,6 +74,7 @@ Linwei Dong*, <strong>Qingnan Fan*</strong>, Yihong Guo, Zhonghao Wang, Qi Zhang
 /
 <a href="https://github.com/Microtreei/TSD-SR" target="_blank">codes</a>
 
+- The first image super-resolution work that takes advantage of the pretrained diffusion transformer (DIT) prior, specifically SD3.
 - TSD-SR has superior restoration results (most of the metrics perform the best) and the fastest inference speed (e.g. 40 times faster than SeeSR) compared to the past Real-ISR approaches based on pre-trained diffusion priors.
 </div>
 </div>
@@ -85,7 +86,10 @@ Linwei Dong*, <strong>Qingnan Fan*</strong>, Yihong Guo, Zhonghao Wang, Qi Zhang
 Qiming Hu, Linlong Fan, Yiyan Luo, Yuhang Yu, Xiaojie Guo, <strong>Qingnan Fan</strong>.
   
 <a href="https://arxiv.org/abs/2506.04641" target="_blank">arXiv</a>
+/
+<a href="https://github.com/mingcv/TADiSR" target="_blank">codes</a>
 
+- The first text-aware full image super-resolution work utilizing the diffusion priors.
 - A novel diffusion-based SR framework, namely TADiSR, which integrates text-aware attention and joint segmentation decoders to recover not only natural details but also the structural fidelity of text regions in degraded real-world images.
 </div>
 </div>
