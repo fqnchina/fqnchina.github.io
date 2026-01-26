@@ -27,8 +27,6 @@ I obtained my PhD degree in the  <a href="http://www.cs.sdu.edu.cn/">Computer Sc
 
 My research focus lies in computational photography, 3D vision, Embodied AI.  I have published 40+ papers <a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFqnchina%2Ffqnchina.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international conferences such as SIGGRAPH, CVPR, ICCV, including 10+ oral papers.
 
-<!-- <a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> --> 
-
 👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at VIVO.** If you are interested in the research internship on computational photography, 3DV and Embodied AI, feel free to drop me an email.</span>
 
 # 🔥 Tech Transfer
@@ -41,6 +39,16 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 **Equal contribution**$^\star$
 
 ## 🧑‍🎨 Applied research for deployed projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 </div><img src='./QingnanFan_files/iclr_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion]
+
+Clara Xue, Zizheng Yan, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
+
+- A reference-guided image restoration framework tailored for the reselected key photo in Live Photos.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 </div><img src='./QingnanFan_files/iccv_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,7 +68,7 @@ Chengxuan Zhu, <strong>Qingnan Fan</strong>, Qi Zhang, Jinwei Chen, Huaqi Zhang,
 <div class='paper-box-text' markdown="1">
 [TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution](./QingnanFan_files/cvpr_2025_tsd.pdf)
 
-Linwei Dong, <strong>Qingnan Fan</strong>, Yihong Guo, Zhonghao Wang, Qi Zhang, Jinwei Chen, Yawei Luo, Changqing Zou.
+Linwei Dong*, <strong>Qingnan Fan*</strong>, Yihong Guo, Zhonghao Wang, Qi Zhang, Jinwei Chen, Yawei Luo, Changqing Zou.
   
 <a href="https://arxiv.org/abs/2411.18263" target="_blank">arXiv</a>
 /
