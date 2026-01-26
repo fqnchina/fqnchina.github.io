@@ -46,7 +46,8 @@ LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guide
 
 Clara Xue, Zizheng Yan, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
 
-- The first reference-guided image restoration framework tailored for the reselected key photo in Live Photos.
+- The first to address the problem of reselected key photo restoration in Live Photos.
+- LiveMoments significantly improves perceptual quality and fidelity over existing solutions, including the recent flagships from vivo and iPhone.
 </div>
 </div>
 
@@ -60,7 +61,8 @@ Chengxuan Zhu, <strong>Qingnan Fan</strong>, Qi Zhang, Jinwei Chen, Huaqi Zhang,
 /
 <a href="https://github.com/FreeButUselessSoul/bokehdiff" target="_blank">codes</a>
 
-- The first novel lens blur rendering method that achieves physically accurate and visually appealing outcomes, with the help of generative diffusion prior.
+- The first neural lens blur rendering pipeline based on pretrained diffusion priors.
+- A diffusion framework with only one inference step that achieves outstanding quality compared with previous methods, especially in regions where depth prediction fails.
 </div>
 </div>
 
@@ -74,7 +76,7 @@ Linwei Dong*, <strong>Qingnan Fan*</strong>, Yihong Guo, Zhonghao Wang, Qi Zhang
 /
 <a href="https://github.com/Microtreei/TSD-SR" target="_blank">codes</a>
 
-- The first image super-resolution work that takes advantage of the pretrained diffusion transformer (DIT) prior, specifically SD3.
+- The first image super-resolution work that leverages the pretrained diffusion transformer (DIT) prior, specifically Stable Diffusion 3.
 - TSD-SR has superior restoration results (most of the metrics perform the best) and the fastest inference speed (e.g. 40 times faster than SeeSR) compared to the past Real-ISR approaches based on pre-trained diffusion priors.
 </div>
 </div>
@@ -89,8 +91,8 @@ Qiming Hu, Linlong Fan, Yiyan Luo, Yuhang Yu, Xiaojie Guo, <strong>Qingnan Fan</
 /
 <a href="https://github.com/mingcv/TADiSR" target="_blank">codes</a>
 
-- The first text-aware full image super-resolution work utilizing the diffusion priors.
-- A novel diffusion-based SR framework, namely TADiSR, which integrates text-aware attention and joint segmentation decoders to recover not only natural details but also the structural fidelity of text regions in degraded real-world images.
+- The first full-image text super-resolution work utilizing the diffusion priors.
+- A novel diffusion-based SR framework, which integrates text-aware attention and joint segmentation decoders to recover not only natural details but also the structural fidelity of text regions in degraded real-world images.
 </div>
 </div>
 
@@ -104,6 +106,7 @@ Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, 
 /
 <a href="https://github.com/EthanLiang99/AuthFace" target="_blank">codes</a>
 
+- Pioneering a new approach by enhancing the generative capabilities of pretrained T2I models for authentic face restoration, moving beyond traditional model design.
 - A novel framework, namely AuthFace that achieves highly authentic face restoration results by exploring a face-oriented generative diffusion prior.
 </div>
 </div>
