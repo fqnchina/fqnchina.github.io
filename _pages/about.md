@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lead Researcher and team manager in the Imaging Algorithm Center of VIVO. Our group is the core algorithm team responsible for advancing the photographic quality in the flagship smartphones with the cutting-edge technologies (3D, AIGC, etc).
+I am a Lead Researcher and team manager in the vivo BlueImage Lab. Our group is the core algorithm team responsible for advancing the photographic quality in the flagship smartphones with the cutting-edge technologies (3D, AIGC, etc).
 
 I was a Senior Researcher in the Visual Computing Center of Tencent AI Lab between 2021 to 2023.
 
@@ -31,7 +31,7 @@ My research focus lies in computational photography, 3D vision, Embodied AI.  I 
 
 # 🔥 Tech Transfer
 
-VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">High-fidelity generative diffusion models for telephoto image enhancement​</a>
+VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto image enhancement via high-fidelity generative diffusion models​</a>
 
 VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Text image enhancement (Chinese/English) with generative diffusion prior​</a>
 
