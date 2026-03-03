@@ -38,7 +38,7 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
 
-## 🧑‍🎨 Applied research (shipped features)
+## 🧑‍🎨 Applied research (for shipped features)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='./QingnanFan_files/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
