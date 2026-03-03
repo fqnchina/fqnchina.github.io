@@ -44,7 +44,7 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 <div class='paper-box-text' markdown="1">
 [LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](./QingnanFan_files/iclr_2026.pdf)
 
-Clara Xue*, Zizheng Yan*, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
+Clara Xue, Zizheng Yan, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
 
 - The first to address the problem of reselected key photo restoration in Live Photos.
 - LiveMoments significantly improves perceptual quality and fidelity over existing solutions, including the recent flagships from vivo and iPhone.
@@ -210,7 +210,7 @@ Zejia Su,
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
   
-<a href="https://yanchaoyang.github.io/">Yanchao Yang* </a>, 
+<a href="https://yanchaoyang.github.io/">Yanchao Yang*</a>, 
 Hanxiang Ren*,
 <a href="https://hughw19.github.io/">He Wang</a>,  
 <a href="https://cs.stanford.edu/people/bshen88/">Bokui Shen</a>, 
