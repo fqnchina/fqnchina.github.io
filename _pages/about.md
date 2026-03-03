@@ -33,12 +33,12 @@ My research focus lies in computational photography, 3D vision, Embodied AI.  I 
 
 VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto image enhancement via high-fidelity generative diffusion models​</a>
 
-VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Text image enhancement (Chinese/English) with generative diffusion prior​</a>
+VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Telephoto text image enhancement (Chinese/English) with generative diffusion prior​</a>
 
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
 
-## 🧑‍🎨 Applied research (deployed projects)
+## 🧑‍🎨 Applied research (shipped features)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='./QingnanFan_files/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
