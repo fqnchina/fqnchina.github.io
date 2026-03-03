@@ -44,7 +44,7 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 <div class='paper-box-text' markdown="1">
 LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion
 
-Clara Xue*, Zizheng Yan*, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
+Clara Xue, Zizheng Yan, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
 
 - The first to address the problem of reselected key photo restoration in Live Photos.
 - LiveMoments significantly improves perceptual quality and fidelity over existing solutions, including the recent flagships from vivo and iPhone.
