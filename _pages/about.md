@@ -38,11 +38,11 @@ VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
 
-## 🧑‍🎨 Applied research for deployed projects
+## 🧑‍🎨 Applied research (deployed projects)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='./QingnanFan_files/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion
+[LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](./QingnanFan_files/iclr_2026.pdf)
 
 Clara Xue, Zizheng Yan, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
 
