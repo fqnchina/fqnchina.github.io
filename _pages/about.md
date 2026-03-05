@@ -60,6 +60,8 @@ Chengxuan Zhu, <strong>Qingnan Fan</strong>, Qi Zhang, Jinwei Chen, Huaqi Zhang,
 <a href="https://arxiv.org/abs/2507.18060" target="_blank">arXiv</a>
 /
 <a href="https://github.com/FreeButUselessSoul/bokehdiff" target="_blank">codes</a>
+/
+press: <a href="https://www.youtube.com/watch?v=kay87MWCY9U" target="_blank">Droider</a>
 
 - The first neural lens blur rendering pipeline based on pretrained diffusion priors.
 - A diffusion framework with only one inference step that achieves outstanding quality compared with previous methods, especially in regions where depth prediction fails.
