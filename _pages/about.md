@@ -31,9 +31,11 @@ My research focus lies in computational photography, 3D vision, Embodied AI.  I 
 
 # 🔥 Tech Transfer
 
-VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto image enhancement via high-fidelity generative diffusion models​</a>
+VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto image enhancement via high-fidelity one-step diffusion​</a>
 
-VIVO X300 series: <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Telephoto text image enhancement (Chinese/English) with generative diffusion prior​</a>
+VIVO X300 series: 
+- <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Text image (Chinese/English) enhancement via diffusion prior​</a>
+- <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a>
 
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
