@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lead Researcher and team manager in the vivo BlueImage Lab. Our group is the core algorithm team responsible for advancing the photographic quality in the flagship smartphones with the cutting-edge technologies (3D, AIGC, etc).
+I am a Lead Researcher and Team Manager in the vivo BlueImage Lab. Our group is the core algorithm team responsible for advancing the photographic quality in the flagship smartphones with the cutting-edge technologies (3D, AIGC, etc).
 
 I was a Senior Researcher in the Visual Computing Center of Tencent AI Lab between 2021 to 2023.
 
@@ -36,6 +36,7 @@ VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-
 VIVO X300 series: 
 - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Text image (Chinese/English) enhancement via diffusion prior​</a>
 - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a>
+- <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Lens bokeh distillation via one-step diffusion</a>
 
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
