@@ -31,7 +31,7 @@ My research focus lies in computational photography, 3D vision, Embodied AI.  I 
 
 # 🔥 Tech Transfer
 
-VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto image enhancement via high-fidelity one-step diffusion​</a>
+VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-the-test-in-china/">Telephoto enhancement via high-fidelity one-step diffusion​</a>
 
 VIVO X300 series: 
 - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Text image (Chinese/English) enhancement via diffusion prior​</a>
