@@ -301,6 +301,35 @@ Hanxiang Ren*,
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='./QingnanFan_files/eccv_2022_localization.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Towards Accurate Active Camera Localization](./QingnanFan_files/eccv_2022_localization.pdf)
+  
+Qihang Fang*, 
+<a href="https://yd-yin.github.io/">Yingda Yin*</a>, 
+<strong>Qingnan Fan</strong>, 
+<a href="https://fxia22.github.io/">Fei Xia</a>,
+<a href="https://scholar.google.com/citations?user=vtZMhssAAAAJ&hl=en/">Siyan Dong</a>, 
+Sheng Wang,
+<a href="https://juewang725.github.io/">Jue Wang</a>,
+<a href="http://geometry.stanford.edu/member/guibas/index.html" target="_blank">Leonidas Guibas</a>,
+<a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>.
+  
+<a href="https://arxiv.org/abs/2012.04263" target="_blank">arXiv</a>
+/
+<a href="https://github.com/qhFang/AccurateACL" target="_blank">codes</a>
+/
+<a href="https://www.youtube.com/watch?v=pDMoZ6pjkkQ">video</a>
+/
+<a href="./QingnanFan_files/eccv_2022_localization_supp.pdf">supp file</a>
+/
+<a href="./QingnanFan_files/eccv_2022_localization.bib">bibtex</a>
+- In this work, we explicitly model the camera and scene uncertainty components to solve the problem of active camera localization by reinforcement learning. Our algorithm improves over the state-of-the-art Markov Localization based approaches by a large margin on the fine-scale camera pose accuracy.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 (Oral)</div><img src='./QingnanFan_files/iccv_2021_captra3.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds](./QingnanFan_files/iccv_2021_captra.pdf)
