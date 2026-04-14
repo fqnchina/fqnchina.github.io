@@ -571,7 +571,7 @@ press (<a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650799676
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Build-to-Last: Strength to Weight 3D Printed Objects](https://www.dropbox.com/s/f84dqmtht41k8vv/a97-lu.pdf?dl=0)
 
@@ -589,7 +589,7 @@ Haisen Zhao, Yuan Wei,
 <a href="./QingnanFan_files/sig_2014.bib">bibtex</a>
 - Reduce the material cost and weight of a given object while providing a durable printed model that is resistant to impact and external forces.
 </div>
-</div>
+</div> -->
 
 # 🎖 Honors and Awards       
 - *2022*, Tencent Outstanding Contributor
