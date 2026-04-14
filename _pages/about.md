@@ -301,6 +301,29 @@ Hanxiang Ren*,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='./QingnanFan_files/iclr_2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation](./QingnanFan_files/iclr_2023.pdf)
+  
+<a href="https://www.researchgate.net/profile/Yan-Zhao-182" target="_blank">Yan Zhao*</a>,
+<a href="https://warshallrho.github.io/" target="_blank">Ruihai Wu*</a>,
+Zhehuan Chen,
+Yourong Zhang,
+<strong>Qingnan Fan</strong>, 
+<a href="https://cs.stanford.edu/~kaichun/">Kaichun Mo</a>, 
+<a href="https://zsdonghao.github.io/" target='_blank'>Hao Dong</a>.
+  
+<a href="https://arxiv.org/abs/2207.01971" target="_blank">arXiv</a>
+/
+<a href="https://hyperplane-lab.github.io/DualAfford/" target="_blank">project page</a>
+/
+<a href="https://www.youtube.com/watch?v=3NsnIIrgv0w" target="_blank">video</a>
+/
+<a href="./QingnanFan_files/iclr-2023.bib">bibtex</a>
+- We propose a novel learning framework, DualAfford, to learn collaborative affordance for dual-gripper manipulation tasks. The core design of the approach is to reduce the quadratic problem for two grippers into two disentangled yet interconnected subtasks for efficient learning.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='./QingnanFan_files/eccv_2022_localization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
