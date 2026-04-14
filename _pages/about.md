@@ -329,6 +329,33 @@ Sheng Wang,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='./QingnanFan_files/cvpr22_mapping.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Multi-Robot Active Mapping via Neural Bipartite Graph Matching](./QingnanFan_files/cvpr_2022_mapping.pdf)
+  
+Kai Ye*, 
+<a href="https://scholar.google.com/citations?user=vtZMhssAAAAJ&hl=en/">Siyan Dong*</a>, 
+<strong>Qingnan Fan</strong>, 
+<a href="https://hughw19.github.io/">He Wang</a>, 
+<a href="https://ericyi.github.io/">Li Yi</a>, 
+<a href="https://fxia22.github.io/">Fei Xia</a>,
+<a href="https://juewang725.github.io/">Jue Wang</a>,
+<a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>.
+  
+<a href="https://arxiv.org/abs/2203.16319" target="_blank">arXiv</a>
+/
+<a href="https://github.com/siyandong/NeuralCoMapping" target="_blank">codes</a>
+/
+<a href="https://www.youtube.com/watch?v=M7LRzWDG6mk" target="_blank">video</a>
+/
+<a href="./QingnanFan_files/cvpr_2022_mapping_supp.pdf">supp file</a>
+/
+<a href="./QingnanFan_files/cvpr_2022_mapping_poster.pdf">poster</a>
+/
+<a href="./QingnanFan_files/cvpr_2022_mapping.bib">bibtex</a>
+- We propose a novel multi-robot active mapping algorithm by reducing the problem to bipartite graph matching, solved by the proposed multiplex graph neural network (mGNN) via reinforcement learning.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021 (Oral)</div><img src='./QingnanFan_files/iccv_2021_captra3.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
