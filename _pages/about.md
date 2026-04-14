@@ -116,6 +116,26 @@ Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2021 </div><img src='./QingnanFan_files/tpami21_thumbnail.gif'  alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A General Decoupled Learning Framework for Parameterized Image Operators](./QingnanFan_files/tpami_2021.pdf)
+
+<strong>Qingnan Fan*</strong>, 
+<a href="http://www.dongdongchen.bid/">Dongdong Chen*</a>, 
+<a href="http://www.lyuan.org/">Lu Yuan</a>,
+<a href="https://www.microsoft.com/en-us/research/people/ganghua/">Gang Hua</a>, 
+<a href="http://staff.ustc.edu.cn/~ynh/">Nenghai Yu</a>, 
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>.
+
+<a href="https://arxiv.org/abs/1907.05852">arXiv</a>
+/ 
+<a href="https://github.com/fqnchina/DecoupleLearning">codes</a>
+/
+<a href="./QingnanFan_files/tpami_2021.bib">bibtex</a>
+- A journal extension of our ECCV 2018 paper. We further propose a cheap parameter-tuning version of the decouple learning framework that enables real-time alternation between different image operators.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2018 </div><img src='./QingnanFan_files/siga18_thumbnail.png'  alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Image Smoothing via Unsupervised Learning](./QingnanFan_files/siggraph_asia_2018.pdf)
@@ -156,6 +176,29 @@ Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, 
 / 
 <a href="./QingnanFan_files/cvpr_2018.bib">bibtex</a>
 - The first demonstration of a single basic deep architecture capable of achieving state-of-the-art results when applied to each of the major intrinsic benchmarks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018 (Oral) </div><img src='./QingnanFan_files/iccv17_thumbnail.png'  alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Generic Deep Architecture for Single Image Reflection Removal and Image Smoothing](./QingnanFan_files/iccv_2017.pdf)
+
+<strong>Qingnan Fan</strong>, 
+<a href="http://jlyang.org/">Jiaolong Yang</a>, 
+<a href="https://www.microsoft.com/en-us/research/people/ganghua/">Gang Hua</a>, 
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
+<a href="http://www.davidwipf.com/">David Wipf</a>.
+
+<a href="https://arxiv.org/abs/1708.03474">arXiv</a>
+/ 
+<a href="https://github.com/fqnchina/CEILNet">codes</a>
+/ 
+<a href="./QingnanFan_files/iccv_2017_supp.pdf">supp file</a>
+/ 
+<a href="./QingnanFan_files/iccv_2017_poster.pdf">poster</a>
+/ 
+<a href="./QingnanFan_files/iccv_2017.bib">bibtex</a>
+- An advanced deep architecture for low-level vision tasks; A novel reflection image synthesis approach which enables outstanding generalization ability to real images with trained newtork.
 </div>
 </div>
 
