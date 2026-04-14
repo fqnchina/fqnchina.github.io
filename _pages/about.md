@@ -263,9 +263,6 @@ Yuzheng Liu*,
 <strong>Qingnan Fan</strong>, 
 <a href="https://users.aalto.fi/~kannalj1/">Juho Kannala</a>,
 <a href="https://yanchaoyang.github.io/">Yanchao Yang</a>.
-
-
- <h3 align="center"><a href="https://arxiv.org/abs/2412.08376">Paper</a> | <a href="https://www.youtube.com/watch?v=uHcEZRPOE5s">Video</a> | <a href="https://drive.google.com/file/d/1-siUbcn0N3jdr1IjJ4BBxKLSOafPDCFP/view?usp=drive_link">Poster</a> | <a href="https://huggingface.co/spaces/siyan824/reloc3r-512_relpose">Demo (Online)</a> </h3>
  
 <a href="https://arxiv.org/abs/2412.08376" target="_blank">arXiv</a>
 /
