@@ -250,6 +250,29 @@ Zejia Su,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='./QingnanFan_files/iclr_2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation](./QingnanFan_files/iclr_2023.pdf)
+  
+<a href="https://www.researchgate.net/profile/Yan-Zhao-182" target="_blank">Yan Zhao*</a>,
+<a href="https://warshallrho.github.io/" target="_blank">Ruihai Wu*</a>,
+Zhehuan Chen,
+Yourong Zhang,
+<strong>Qingnan Fan</strong>, 
+<a href="https://cs.stanford.edu/~kaichun/">Kaichun Mo</a>, 
+<a href="https://zsdonghao.github.io/" target='_blank'>Hao Dong</a>.
+  
+<a href="https://arxiv.org/abs/2207.01971" target="_blank">arXiv</a>
+/
+<a href="https://hyperplane-lab.github.io/DualAfford/" target="_blank">project page</a>
+/
+<a href="https://www.youtube.com/watch?v=3NsnIIrgv0w" target="_blank">video</a>
+/
+<a href="./QingnanFan_files/iclr-2023.bib">bibtex</a>
+- We propose a novel learning framework, DualAfford, to learn collaborative affordance for dual-gripper manipulation tasks. The core design of the approach is to reduce the quadratic problem for two grippers into two disentangled yet interconnected subtasks for efficient learning.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='./QingnanFan_files/vat_mart.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects](./QingnanFan_files/iclr_2022.pdf)
@@ -279,7 +302,7 @@ Zejia Su,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela_v2.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 (Oral)</div><img src='./QingnanFan_files/cvpr22_adela_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ADeLA: Automatic Dense Labeling with Attention for Viewpoint Shift in Semantic Segmentation](./QingnanFan_files/cvpr_2022_adela.pdf)
   
@@ -299,31 +322,32 @@ Hanxiang Ren*,
 <a href="./QingnanFan_files/cvpr_2022_adela.bib">bibtex</a>
 - We describe a method to deal with performance drop in semantic segmentation caused by viewpoint changes within multi-camera systems, where temporally paired images are readily available, but the annotations may only be abundant for a few typical views.
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='./QingnanFan_files/iclr_2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='./QingnanFan_files/eccv_2022_AdaAfford.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation](./QingnanFan_files/iclr_2023.pdf)
+[AdaAfford: Learning to Adapt Manipulation Affordance for 3D Articulated Objects via Few-shot Interactions](./QingnanFan_files/eccv_2022_AdaAfford.pdf)
   
-<a href="https://www.researchgate.net/profile/Yan-Zhao-182" target="_blank">Yan Zhao*</a>,
+<a href="https://github.com/galaxy-qazzz">Yian Wang*</a>, 
 <a href="https://warshallrho.github.io/" target="_blank">Ruihai Wu*</a>,
-Zhehuan Chen,
-Yourong Zhang,
+<a href="https://cs.stanford.edu/~kaichun/">Kaichun Mo*</a>, 
+Jiaqi Ke,
 <strong>Qingnan Fan</strong>, 
-<a href="https://cs.stanford.edu/~kaichun/">Kaichun Mo</a>, 
+<a href="http://geometry.stanford.edu/member/guibas/index.html" target="_blank">Leonidas Guibas</a>,
 <a href="https://zsdonghao.github.io/" target='_blank'>Hao Dong</a>.
   
-<a href="https://arxiv.org/abs/2207.01971" target="_blank">arXiv</a>
+<a href="https://arxiv.org/abs/2112.00246" target="_blank">arXiv</a>
 /
-<a href="https://hyperplane-lab.github.io/DualAfford/" target="_blank">project page</a>
+<a href="https://hyperplane-lab.github.io/AdaAfford/" target="_blank">project page</a>
 /
-<a href="https://www.youtube.com/watch?v=3NsnIIrgv0w" target="_blank">video</a>
+<a href="https://github.com/wangyian-me/AdaAffordCode/" target="_blank">codes</a>
 /
-<a href="./QingnanFan_files/iclr-2023.bib">bibtex</a>
-- We propose a novel learning framework, DualAfford, to learn collaborative affordance for dual-gripper manipulation tasks. The core design of the approach is to reduce the quadratic problem for two grippers into two disentangled yet interconnected subtasks for efficient learning.
+<a href="https://www.youtube.com/watch?v=Qaq0YkpNxe4">video</a>
+/
+<a href="./QingnanFan_files/eccv_2022_AdaAfford.bib">bibtex</a>
+- In this paper, we propose a novel framework, named AdaAfford, that learns to perform very few test-time interactions for quickly adapting the affordance priors to more accurate instance-specific posteriors.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='./QingnanFan_files/eccv_2022_localization.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
