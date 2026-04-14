@@ -209,6 +209,33 @@ Yuzheng Liu*,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='./QingnanFan_files/cvpr_2025_reloc3r.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization](./QingnanFan_files/cvpr_2025_reloc3r.pdf)
+
+<a href="https://siyandong.github.io/">Siyan Dong*</a>,
+<a href="https://ffrivera0.github.io/">Shuzhe Wang*</a>,
+<a href="http://b1ueber2y.me/">Shaohui Liu</a>,
+<a href="">Lulu Cai</a>,
+<strong>Qingnan Fan</strong>, 
+<a href="https://users.aalto.fi/~kannalj1/">Juho Kannala</a>,
+<a href="https://yanchaoyang.github.io/">Yanchao Yang</a>.
+
+
+ <h3 align="center"><a href="https://arxiv.org/abs/2412.08376">Paper</a> | <a href="https://www.youtube.com/watch?v=uHcEZRPOE5s">Video</a> | <a href="https://drive.google.com/file/d/1-siUbcn0N3jdr1IjJ4BBxKLSOafPDCFP/view?usp=drive_link">Poster</a> | <a href="https://huggingface.co/spaces/siyan824/reloc3r-512_relpose">Demo (Online)</a> </h3>
+ 
+<a href="https://arxiv.org/abs/2412.08376" target="_blank">arXiv</a>
+/
+<a href="https://www.youtube.com/watch?v=uHcEZRPOE5s" target="_blank">video</a>
+/
+<a href="https://huggingface.co/spaces/siyan824/reloc3r-512_relpose" target="_blank">demo (online)</a>
+/
+<a href="https://github.com/ffrivera0/reloc3r" target="_blank">codes</a>
+
+- Reloc3r is a simple yet effective camera pose estimation framework that combines a pre-trained two-view relative camera pose regression network with a multi-view motion averaging module.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2023</div><img src='./QingnanFan_files/siga_2023_activity_small.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Scene-aware Activity Program Generation with Language Guidance](./QingnanFan_files/sigatog_2023.pdf)
