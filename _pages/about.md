@@ -41,7 +41,7 @@ VIVO X300 series:
 # 📝 Selected Publications 
 **Equal contribution**$^\star$
 
-## 🧑‍🎨 Applied research (for shipped features)
+## 🧑‍🎨 Computational photography
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='./QingnanFan_files/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,7 +116,75 @@ Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, 
 </div>
 </div>
 
-## 📚 Oral/Awarded research
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2018 </div><img src='./QingnanFan_files/siga18_thumbnail.png'  alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Image Smoothing via Unsupervised Learning](./QingnanFan_files/siggraph_asia_2018.pdf)
+
+<strong>Qingnan Fan</strong>, 
+<a href="http://jlyang.org/">Jiaolong Yang</a>, 
+<a href="http://www.davidwipf.com/">David Wipf</a>, <a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
+<a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>.
+
+<a href="https://arxiv.org/abs/1811.02804">arXiv</a>
+/ 
+<a href="https://github.com/fqnchina/ImageSmoothing">codes</a>
+/ 
+<a href="https://www.dropbox.com/s/p3ql7etstto1g4e/siggraph_asia_2018_supp.pdf?dl=0">supp file</a>
+/
+<a href="./QingnanFan_files/siga_2018.bib">bibtex</a>
+- Treat deep learning as an optimization tool to minimize the proposed image smoothing objective function in an unsupervised manner. Multiple different smoothing effects can be easily learned by adaptively changing the proposed objective function.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018 (Oral) </div><img src='./QingnanFan_files/cvpr18_thumbnail_v2.png'  alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Revisiting Deep Intrinsic Image Decompositions](./QingnanFan_files/cvpr_2018.pdf)
+
+<strong>Qingnan Fan</strong>, 
+<a href="http://jlyang.org/">Jiaolong Yang</a>, 
+<a href="https://www.microsoft.com/en-us/research/people/ganghua/">Gang Hua</a>, 
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
+<a href="http://www.davidwipf.com/">David Wipf</a>.
+
+<a href="https://arxiv.org/abs/1701.02965">arXiv</a>
+/ 
+<a href="https://github.com/fqnchina/IntrinsicImage">codes</a>
+/
+<a href="./QingnanFan_files/cvpr_2018_v4_JL.pptx">slides</a>
+/ <a href="./QingnanFan_files/cvpr_2018_supp.pdf">supp file</a> /
+<a href="./QingnanFan_files/cvpr_2018_poster.pdf">poster</a>
+/ 
+<a href="./QingnanFan_files/cvpr_2018.bib">bibtex</a>
+- The first demonstration of a single basic deep architecture capable of achieving state-of-the-art results when applied to each of the major intrinsic benchmarks.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2015 </div><img src='./QingnanFan_files/siga_2015.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[JumpCut: Non-Successive Mask Transfer and Interpolation for Video Cutout](https://www.dropbox.com/s/q2xvrag0g5l8wii/%5B2015%5D%5Bsiggraph_asia%5DJumpCut%20Non-Successive%20Mask%20Transfer%20and%20Interpolation%20for%20Video%20Cutout.pdf?dl=0)
+
+<strong>Qingnan Fan</strong>,
+<a href="http://vr.sdu.edu.cn/~zf/">Fan Zhong</a>,
+<a href="http://www.cs.huji.ac.il/~danix/">Dani Lischinski</a>,
+<a href="http://www.math.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
+<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>.
+
+<a href="https://github.com/sduirc/JumpCut">codes</a>
+/ 
+<a href="https://www.dropbox.com/scl/fi/jr84cmwryf50vnb61wb6e/siga_2015.pptx?dl=0&rlkey=9jn17dt75d0g2bi23wlax5hb6">slides</a>
+/ 
+<a href="https://www.youtube.com/watch?v=drqnwDg0JFM&t=77s">video</a>
+/ 
+<a href="https://www.dropbox.com/s/4b76crsifryn6rq/siga_2015_supp.rar?dl=0">supp file</a>
+/ 
+<a href="https://www.dropbox.com/s/v0v3pkrhz1vizyt/VideoSeg_dataset.rar?dl=0">dataset</a>
+/ 
+<a href="./QingnanFan_files/siga_2015.bib">bibtex</a>
+- An interactive real-time video segmentation algorithm. Significantly improve the video cutout accuracy and efficiency.
+</div>
+</div>
+
+## 📚 Embodied AI
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Highlight)</div><img src='./QingnanFan_files/cvpr_2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -281,74 +349,6 @@ Ji Shi,
 /
 <a href="./QingnanFan_files/cvpr_2021_localization.bib">bibtex</a>
 - A novel outlier-aware neural tree to tackle the camera localization challenges in dynamic indoor environments. It achieves the best performance in the RIO-10 benchmark.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2018 </div><img src='./QingnanFan_files/siga18_thumbnail.png'  alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Image Smoothing via Unsupervised Learning](./QingnanFan_files/siggraph_asia_2018.pdf)
-
-<strong>Qingnan Fan</strong>, 
-<a href="http://jlyang.org/">Jiaolong Yang</a>, 
-<a href="http://www.davidwipf.com/">David Wipf</a>, <a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
-<a href="https://www.microsoft.com/en-us/research/people/xtong/">Xin Tong</a>.
-
-<a href="https://arxiv.org/abs/1811.02804">arXiv</a>
-/ 
-<a href="https://github.com/fqnchina/ImageSmoothing">codes</a>
-/ 
-<a href="https://www.dropbox.com/s/p3ql7etstto1g4e/siggraph_asia_2018_supp.pdf?dl=0">supp file</a>
-/
-<a href="./QingnanFan_files/siga_2018.bib">bibtex</a>
-- Treat deep learning as an optimization tool to minimize the proposed image smoothing objective function in an unsupervised manner. Multiple different smoothing effects can be easily learned by adaptively changing the proposed objective function.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2018 (Oral) </div><img src='./QingnanFan_files/cvpr18_thumbnail_v2.png'  alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Revisiting Deep Intrinsic Image Decompositions](./QingnanFan_files/cvpr_2018.pdf)
-
-<strong>Qingnan Fan</strong>, 
-<a href="http://jlyang.org/">Jiaolong Yang</a>, 
-<a href="https://www.microsoft.com/en-us/research/people/ganghua/">Gang Hua</a>, 
-<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>,
-<a href="http://www.davidwipf.com/">David Wipf</a>.
-
-<a href="https://arxiv.org/abs/1701.02965">arXiv</a>
-/ 
-<a href="https://github.com/fqnchina/IntrinsicImage">codes</a>
-/
-<a href="./QingnanFan_files/cvpr_2018_v4_JL.pptx">slides</a>
-/ <a href="./QingnanFan_files/cvpr_2018_supp.pdf">supp file</a> /
-<a href="./QingnanFan_files/cvpr_2018_poster.pdf">poster</a>
-/ 
-<a href="./QingnanFan_files/cvpr_2018.bib">bibtex</a>
-- The first demonstration of a single basic deep architecture capable of achieving state-of-the-art results when applied to each of the major intrinsic benchmarks.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia & TOG 2015 </div><img src='./QingnanFan_files/siga_2015.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[JumpCut: Non-Successive Mask Transfer and Interpolation for Video Cutout](https://www.dropbox.com/s/q2xvrag0g5l8wii/%5B2015%5D%5Bsiggraph_asia%5DJumpCut%20Non-Successive%20Mask%20Transfer%20and%20Interpolation%20for%20Video%20Cutout.pdf?dl=0)
-
-<strong>Qingnan Fan</strong>,
-<a href="http://vr.sdu.edu.cn/~zf/">Fan Zhong</a>,
-<a href="http://www.cs.huji.ac.il/~danix/">Dani Lischinski</a>,
-<a href="http://www.math.tau.ac.il/~dcor/">Daniel Cohen-Or</a>,
-<a href="http://www.cs.sdu.edu.cn/~baoquan/">Baoquan Chen</a>.
-
-<a href="https://github.com/sduirc/JumpCut">codes</a>
-/ 
-<a href="https://www.dropbox.com/scl/fi/jr84cmwryf50vnb61wb6e/siga_2015.pptx?dl=0&rlkey=9jn17dt75d0g2bi23wlax5hb6">slides</a>
-/ 
-<a href="https://www.youtube.com/watch?v=drqnwDg0JFM&t=77s">video</a>
-/ 
-<a href="https://www.dropbox.com/s/4b76crsifryn6rq/siga_2015_supp.rar?dl=0">supp file</a>
-/ 
-<a href="https://www.dropbox.com/s/v0v3pkrhz1vizyt/VideoSeg_dataset.rar?dl=0">dataset</a>
-/ 
-<a href="./QingnanFan_files/siga_2015.bib">bibtex</a>
-- An interactive real-time video segmentation algorithm. Significantly improve the video cutout accuracy and efficiency.
 </div>
 </div>
 
