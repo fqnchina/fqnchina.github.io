@@ -408,6 +408,34 @@ Ji Shi,
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2020</div><img src='./QingnanFan_files/nips_2020_v2.gif'  alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Generative 3D Part Assembly via Dynamic Graph Learning](./QingnanFan_files/nips_2020_part_assembly.pdf)
+
+Jialei Huang*,
+<a href="https://championchess.github.io/">Guanqi Zhan*</a>, 
+<strong>Qingnan Fan</strong>, 
+<a href="https://cs.stanford.edu/~kaichun/">Kaichun Mo</a>, 
+<a href="https://linsats.github.io/">Lin Shao</a>,
+<a href="https://cfcs.pku.edu.cn/baoquan/">Baoquan Chen</a>, 
+<a href="https://geometry.stanford.edu/member/guibas/index.html">Leonidas Guibas</a>, 
+<a href="https://zsdonghao.github.io/">Hao Dong</a>.
+
+<a href="https://arxiv.org/abs/2006.07793">arXiv</a>
+/ 
+<a href="https://hyperplane-lab.github.io/Generative-3D-Part-Assembly/">project page</a>
+/ 
+<a href="https://github.com/Championchess/Generative-3D-Part-Assembly">codes</a>
+/ 
+<a href="./QingnanFan_files/nips_2020_part_assembly.bib">bibtex</a>
+/ 
+press (<a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650799676&idx=4&sn=1d2c6761bd3892686aacfc5d5dc1c14c&chksm=871a3a42b06db35402bc4e3ed6334f99b0e408ccf9ea30a072ec8bbd4d510e2a35887b563408&scene=0&xtrack=1&key=b21c8bfc2e98d5d832fabcf5a6128c64545a73289c8282c226af065f0e8e665138087c317b186eaebc3355bd9f2e7898b264453a14bd40dffbbb6fef2ef4abeec2a55a98cd3059f89720fff44355005b3bd6c07b912f9076963bed81b37c096beb0b826a868249f36912f97e3e7aaddf2db31632acfed190f0cc958aac41e3d8&ascene=1&uin=NDE4NjY0ODU1&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AWEFijHWuK4REu4n0VpJCOc%3D&pass_ticket=%2FxhWQurVrRrCi87xYVsAtep82meBarP1vauCZheyCMo17a9a4Hpo24ulX3EPdonG&wx_header=0">机器之心</a>,<a href="https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247547123&idx=4&sn=dea62a5edc7a65687d08872ce7ebb5ac&chksm=90943160a7e3b876a68ad4b69af47d5b57e40d50d5ba0034db79e2801dc6d6531eacee36e635&mpshare=1&scene=1&srcid=1017FVRyXZjpjkBieLaw7eQX&sharer_sharetime=1602869239113&sharer_shareid=49c5a30c6732bec1bffca4ce2cfd738b&key=905d9831417cd6b735a634c11fe9e11a86e7bec0fce71b3b6a37c07ef6c6049aea49aff5f0223327ab828a3657dbcd0fb4b9aad0c19b9ee4dedc401426ecd5fc0a44f846a5fb951c4039c3b26e3184934d8810e75e3a13d21762ae46ec85e060c0e769031a118bb4fcaf7d0d6d6c8944979019e20273ca05103f170d592abb78&ascene=1&uin=NDE4NjY0ODU1&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=AYpfmqiYvoArYHlAv2MUXGs%3D&pass_ticket=%2FxhWQurVrRrCi87xYVsAtep82meBarP1vauCZheyCMo17a9a4Hpo24ulX3EPdonG&wx_header=0">AI科技评论</a>)
+- A dynamic graph learning algorithm for autonomous part assembly. It learns to reason an assembly-oriented dynamically-evolved relation graph, which indicates the assembly process which is guided by the major parts (chair leg&seat).
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH & TOG 2014 </div><img src='./QingnanFan_files/a97-lu.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Build-to-Last: Strength to Weight 3D Printed Objects](https://www.dropbox.com/s/f84dqmtht41k8vv/a97-lu.pdf?dl=0)
