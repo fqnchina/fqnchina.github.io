@@ -273,6 +273,27 @@ Yourong Zhang,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='./QingnanFan_files/cvpr_2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification](./QingnanFan_files/cvpr_2023.pdf)
+  
+<a href="https://jzhzhang.github.io/">Jiazhao Zhang*</a>, 
+<a href="https://liudai-homepage.github.io/">Liu Dai*</a>, 
+<a href="https://mfp0610.github.io/">Fanpeng Meng</a>, 
+<strong>Qingnan Fan</strong>, 
+<a href="https://xuelin-chen.github.io/">Xuelin Chen</a>, 
+<a href="https://kevinkaixu.net/">Kai Xu</a>, 
+<a href="https://hughw19.github.io/">He Wang</a>.
+  
+<a href="https://arxiv.org/abs/2212.00338" target="_blank">arXiv</a>
+/
+<a href="https://pku-epic.github.io/3D-Aware-ObjectNav/" target="_blank">project page</a>
+/
+<a href="./QingnanFan_files/cvpr_2023.bib">bibtex</a>
+- We propose a framework for the challenging 3D-aware Object goal navigation task based on two straightforward sub-policies. The two sub-polices, namely corner-guided exploration policy and category-aware identification policy, simultaneously perform by utilizing online fused 3D points as observation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='./QingnanFan_files/vat_mart.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects](./QingnanFan_files/iclr_2022.pdf)
