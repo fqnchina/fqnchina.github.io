@@ -179,7 +179,7 @@ Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2017 </div><img src='./QingnanFan_files/iccv_2017.png'  alt="sym" width="375"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2017 </div><img src='./QingnanFan_files/iccv_2017.png'  alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Generic Deep Architecture for Single Image Reflection Removal and Image Smoothing](./QingnanFan_files/iccv_2017.pdf)
 
