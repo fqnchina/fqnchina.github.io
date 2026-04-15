@@ -25,7 +25,7 @@ I was a Postdoctoral Researcher in Stanford University supervised by <a href="ht
 
 I obtained my PhD degree in the  <a href="http://www.cs.sdu.edu.cn/">Computer Science and Technology School</a> of <a href="http://www.sdu.edu.cn/">Shandong University</a> at 2019. I was supervised by <a href="http://www.cs.sdu.edu.cn/~baoquan/"> Prof. Baoquan Chen</a>.
 
-My research focus lies in computational photography, 3D vision, Embodied AI.  I have published 40+ papers <a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFqnchina%2Ffqnchina.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international conferences such as SIGGRAPH, CVPR, ICCV, including 10+ oral papers.
+My research focus lies in computational photography and Embodied AI.  I have published 40+ papers <a href='https://scholar.google.com/citations?user=2cY2zwUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FFqnchina%2Ffqnchina.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international conferences such as SIGGRAPH, CVPR, ICCV, including 10+ oral papers.
 
 👩‍🎓🧑‍🎓 <span style="color:blue">**Internship at VIVO.** If you are interested in the research internship on computational photography, 3DV and Embodied AI, feel free to drop me an email.</span>
 
