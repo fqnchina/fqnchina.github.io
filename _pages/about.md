@@ -45,7 +45,7 @@ VIVO X300 series:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 </div><img src='./QingnanFan_files/siggraph_26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching
+[VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching](./QingnanFan_files/VeraRetouch.pdf)
 
 Yihong Guo, Youwei Lyu, Jiajun Tang, Yizhuo Zhou, Hongliang Wang, Jinwei Chen, Changqing Zou, <strong>Qingnan Fan</strong>.
 
