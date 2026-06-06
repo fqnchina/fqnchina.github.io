@@ -49,6 +49,12 @@ VIVO X300 series:
 
 Clara Xue*, <a href="https://scholar.google.com/citations?user=Dt5LAqcAAAAJ&hl=en" target="_blank">Zizheng Yan*</a>, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
 
+<a href="https://arxiv.org/abs/2604.12286" target="_blank">arXiv</a>
+/
+<a href="https://github.com/OpenVeraTeam/LiveMoments" target="_blank">codes</a>
+/
+<a href="https://clara7-c.github.io/livemoments/" target="_blank">project page</a>
+
 - The first to address the problem of reselected key photo restoration in Live Photos.
 - LiveMoments significantly improves perceptual quality and fidelity over existing solutions, including the recent flagships from vivo and iPhone.
 </div>
