@@ -64,7 +64,7 @@ Yihong Guo, Youwei Lyu, Jiajun Tang, Yizhuo Zhou, Hongliang Wang, Jinwei Chen, C
 <div class='paper-box-text' markdown="1">
 [LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](./QingnanFan_files/iclr_2026.pdf)
 
-Clara Xue*, <a href="https://scholar.google.com/citations?user=Dt5LAqcAAAAJ&hl=en" target="_blank">Zizheng Yan*</a>, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
+Clara Xue*, <a href="https://scholar.google.com/citations?user=Dt5LAqcAAAAJ&hl=en" target="_blank">Zizheng Yan*</a>, Zhenning Shi, Yuhang Yu, <a href="https://scholar.google.com/citations?user=xuljwP8AAAAJ&hl=zh-CN" target="_blank">Jingyu Zhuang</a>, <a href="https://qzhang-cv.github.io/" target="_blank">Qi Zhang</a>, <a href="https://scholar.google.com/citations?user=Pcsml4oAAAAJ&hl=zh-CN" target="_blank">Jinwei Chen</a>, <strong>Qingnan Fan</strong>.
 
 <a href="https://arxiv.org/abs/2604.12286" target="_blank">arXiv</a>
 /
