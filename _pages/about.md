@@ -35,7 +35,7 @@ VIVO X200 series: <a href="https://www.dxomark.com/putting-the-vivo-x200-pro-to-
 
 VIVO X300 series: 
 - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Text image (Chinese/English) enhancement via diffusion prior​</a>
-- <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a>
+- <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Landmark image enhancement via reference-guided diffusion​</a> (Press: <a href="https://h.xinhuaxmt.com/vh512/share/13102947?docid=13102947&newstype=1001&d=13526a3&channel=weixin" target="_blank">Xinhua News Agency</a>)
 - <a href="https://www.dxomark.com/vivo-x300-pro-camera-test//">Lens bokeh distillation via one-step diffusion</a>
 
 # 📝 Selected Publications 
