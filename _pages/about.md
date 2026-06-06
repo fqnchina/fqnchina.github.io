@@ -43,9 +43,27 @@ VIVO X300 series:
 
 ## 🧑‍🎨 Computational photography
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 </div><img src='./QingnanFan_files/siggraph_26.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching](./QingnanFan_files/VeraRetouch.pdf)
+
+Yihong Guo, Youwei Lyu, Jiajun Tang, Yizhuo Zhou, Hongliang Wang, Jinwei Chen, Changqing Zou, <strong>Qingnan Fan</strong>.
+
+<a href="https://arxiv.org/abs/2604.27375" target="_blank">arXiv</a>
+/
+<a href="https://github.com/OpenVeraTeam/VeraRetouch" target="_blank">codes</a>
+/
+<a href="https://apollo-yi.github.io/VeraRetouch/" target="_blank">project page</a>
+
+- A research system for automatic, style-driven, and parameterized photo retouching with an interpretable reasoning pipeline and a fully differentiable retouch renderer.
+- Real deployment on iPhone 13 Pro Max — no cloud, fully on-device.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='./QingnanFan_files/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](./QingnanFan_files/VeraRetouch.pdf)
+[LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion](./QingnanFan_files/iclr_2026.pdf)
 
 Clara Xue*, <a href="https://scholar.google.com/citations?user=Dt5LAqcAAAAJ&hl=en" target="_blank">Zizheng Yan*</a>, Zhenning Shi, Yuhang Yu, Jingyu Zhuang, Qi Zhang, Jinwei Chen, <strong>Qingnan Fan</strong>.
 
@@ -107,7 +125,7 @@ Qiming Hu, Linlong Fan, Yiyan Luo, Yuhang Yu, Xiaojie Guo, <strong>Qingnan Fan</
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025 (Oral) </div><img src='./QingnanFan_files/mm_2025.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025 (Oral) </div><img src='./QingnanFan_files/mm_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior](./QingnanFan_files/mm_2025.pdf)
 
@@ -120,7 +138,7 @@ Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, 
 - Pioneering a new approach by enhancing the generative capabilities of pretrained T2I models for authentic face restoration, moving beyond traditional model design.
 - A novel framework, namely AuthFace that achieves highly authentic face restoration results by exploring a face-oriented generative diffusion prior.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2021 </div><img src='./QingnanFan_files/tpami21_thumbnail.gif'  alt="sym" width="375"></div></div>
 <div class='paper-box-text' markdown="1">
