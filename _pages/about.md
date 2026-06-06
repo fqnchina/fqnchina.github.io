@@ -43,9 +43,9 @@ VIVO X300 series:
 
 ## 🧑‍🎨 Computational photography
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 </div><img src='./QingnanFan_files/siggraph_26.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 </div><img src='./QingnanFan_files/siggraph_26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching](./QingnanFan_files/VeraRetouch.pdf)
+VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching
 
 Yihong Guo, Youwei Lyu, Jiajun Tang, Yizhuo Zhou, Hongliang Wang, Jinwei Chen, Changqing Zou, <strong>Qingnan Fan</strong>.
 
@@ -59,7 +59,6 @@ Yihong Guo, Youwei Lyu, Jiajun Tang, Yizhuo Zhou, Hongliang Wang, Jinwei Chen, C
 - Real deployment on iPhone 13 Pro Max — no cloud, fully on-device.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 </div><img src='./QingnanFan_files/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
