@@ -139,6 +139,22 @@ Guoqiang Liang, <strong>Qingnan Fan</strong>, Bingtao Fu, Jinwei Chen, Hong Gu, 
 </div>
 </div> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021 </div><img src='./QingnanFan_files/cvpr21_manga_thumbnailv2.png'  alt="sym" width="375"></div></div>
+<div class='paper-box-text' markdown="1">
+[Generating Manga from Illustrations via Mimicking Manga Creation Workflow](https://www.dropbox.com/s/33mbcwfv3e4n1v7/cvpr21_manga.pdf?dl=0)
+
+<a href="https://github.com/lllyasviel">Lvmin Zhang</a>, 
+<a href="https://github.com/SystemErrorWang">Xinrui Wang</a>, 
+<strong>Qingnan Fan</strong>, 
+Yi Ji, 
+ChunPing Liu.
+
+<a href="https://lllyasviel.github.io/MangaFilter/">project page</a>
+- A data-driven framework to convert a digital illustration into three corresponding components: manga line drawing, regular screentone, and irregular screen texture. These components can be directly composed into manga images and can be further retouched for more plentiful manga creations.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2021 </div><img src='./QingnanFan_files/tpami21_thumbnail.gif'  alt="sym" width="375"></div></div>
 <div class='paper-box-text' markdown="1">
 [A General Decoupled Learning Framework for Parameterized Image Operators](./QingnanFan_files/tpami_2021.pdf)
